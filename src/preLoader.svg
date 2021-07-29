@@ -1,0 +1,1580 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1003.64 1286.41" width="1003.6400146484375"
+    height="1286.4100341796875">
+    <defs>
+        <style>
+            .cls-1,
+            .cls-2 {
+                fill: none;
+                stroke-miterlimit: 10;
+                stroke-width: 3px;
+            }
+
+            .cls-1 {
+                stroke: #0b65b1;
+            }
+
+            .cls-2 {
+                stroke: #2b2a29;
+            }
+
+            .cls-3 {
+                fill: #063660;
+                opacity: 0.54;
+                isolation: isolate;
+            }
+
+            .cls-4 {
+                fill: #0b65b1;
+            }
+
+            .cls-5 {
+                fill: #2b2a29;
+            }
+
+
+            svg .svg-elem-1 {
+                stroke-dashoffset: 1872.1982421875px;
+                stroke-dasharray: 1872.1982421875px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0s;
+            }
+
+            svg.active .svg-elem-1 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-2 {
+                stroke-dashoffset: 1826.123046875px;
+                stroke-dasharray: 1826.123046875px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.02s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.01s;
+            }
+
+            svg.active .svg-elem-2 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-3 {
+                stroke-dashoffset: 1780.519775390625px;
+                stroke-dasharray: 1780.519775390625px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.04s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.02s;
+            }
+
+            svg.active .svg-elem-3 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-4 {
+                stroke-dashoffset: 1735.75390625px;
+                stroke-dasharray: 1735.75390625px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.06s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.03s;
+            }
+
+            svg.active .svg-elem-4 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-5 {
+                stroke-dashoffset: 1689.1563720703125px;
+                stroke-dasharray: 1689.1563720703125px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.08s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.04s;
+            }
+
+            svg.active .svg-elem-5 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-6 {
+                stroke-dashoffset: 1644.700927734375px;
+                stroke-dasharray: 1644.700927734375px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.1s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.05s;
+            }
+
+            svg.active .svg-elem-6 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-7 {
+                stroke-dashoffset: 1573.084716796875px;
+                stroke-dasharray: 1573.084716796875px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.12s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.06s;
+            }
+
+            svg.active .svg-elem-7 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-8 {
+                stroke-dashoffset: 1527.828125px;
+                stroke-dasharray: 1527.828125px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.14s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.07s;
+            }
+
+            svg.active .svg-elem-8 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-9 {
+                stroke-dashoffset: 1483.738525390625px;
+                stroke-dasharray: 1483.738525390625px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.16s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.08s;
+            }
+
+            svg.active .svg-elem-9 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-10 {
+                stroke-dashoffset: 1435.318115234375px;
+                stroke-dasharray: 1435.318115234375px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.18s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.09s;
+            }
+
+            svg.active .svg-elem-10 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-11 {
+                stroke-dashoffset: 1057.453857421875px;
+                stroke-dasharray: 1057.453857421875px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.2s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.1s;
+            }
+
+            svg.active .svg-elem-11 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-12 {
+                stroke-dashoffset: 1013.94384765625px;
+                stroke-dasharray: 1013.94384765625px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.22s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.11s;
+            }
+
+            svg.active .svg-elem-12 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-13 {
+                stroke-dashoffset: 965.2638549804688px;
+                stroke-dasharray: 965.2638549804688px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.24s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.12s;
+            }
+
+            svg.active .svg-elem-13 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-14 {
+                stroke-dashoffset: 922.8863525390625px;
+                stroke-dasharray: 922.8863525390625px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.26s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.13s;
+            }
+
+            svg.active .svg-elem-14 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-15 {
+                stroke-dashoffset: 780.9395751953125px;
+                stroke-dasharray: 780.9395751953125px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.28s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.14s;
+            }
+
+            svg.active .svg-elem-15 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-16 {
+                stroke-dashoffset: 731.6480712890625px;
+                stroke-dasharray: 731.6480712890625px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.3s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.15s;
+            }
+
+            svg.active .svg-elem-16 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-17 {
+                stroke-dashoffset: 683.6544189453125px;
+                stroke-dasharray: 683.6544189453125px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.32s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.16s;
+            }
+
+            svg.active .svg-elem-17 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-18 {
+                stroke-dashoffset: 635.363525390625px;
+                stroke-dasharray: 635.363525390625px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.34s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.17s;
+            }
+
+            svg.active .svg-elem-18 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-19 {
+                stroke-dashoffset: 588.449951171875px;
+                stroke-dasharray: 588.449951171875px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.36s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.18s;
+            }
+
+            svg.active .svg-elem-19 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-20 {
+                stroke-dashoffset: 2045.632080078125px;
+                stroke-dasharray: 2045.632080078125px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.38s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.19s;
+            }
+
+            svg.active .svg-elem-20 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-21 {
+                stroke-dashoffset: 474.20001220703125px;
+                stroke-dasharray: 474.20001220703125px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.4s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.2s;
+            }
+
+            svg.active .svg-elem-21 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-22 {
+                stroke-dashoffset: 473.9109802246094px;
+                stroke-dasharray: 473.9109802246094px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.42s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.21s;
+            }
+
+            svg.active .svg-elem-22 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-23 {
+                stroke-dashoffset: 474.1900329589844px;
+                stroke-dasharray: 474.1900329589844px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.44s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.22s;
+            }
+
+            svg.active .svg-elem-23 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-24 {
+                stroke-dashoffset: 474.2300720214844px;
+                stroke-dasharray: 474.2300720214844px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.46s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.23s;
+            }
+
+            svg.active .svg-elem-24 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-25 {
+                stroke-dashoffset: 499.4619140625px;
+                stroke-dasharray: 499.4619140625px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.48s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.24s;
+            }
+
+            svg.active .svg-elem-25 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-26 {
+                stroke-dashoffset: 499.54998779296875px;
+                stroke-dasharray: 499.54998779296875px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.5s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.25s;
+            }
+
+            svg.active .svg-elem-26 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-27 {
+                stroke-dashoffset: 499.5201416015625px;
+                stroke-dasharray: 499.5201416015625px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.52s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.26s;
+            }
+
+            svg.active .svg-elem-27 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-28 {
+                stroke-dashoffset: 499.5900573730469px;
+                stroke-dasharray: 499.5900573730469px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.54s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.27s;
+            }
+
+            svg.active .svg-elem-28 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-29 {
+                stroke-dashoffset: 499.3665466308594px;
+                stroke-dasharray: 499.3665466308594px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.56s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.28s;
+            }
+
+            svg.active .svg-elem-29 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-30 {
+                stroke-dashoffset: 575.79638671875px;
+                stroke-dasharray: 575.79638671875px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.58s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.29s;
+            }
+
+            svg.active .svg-elem-30 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-31 {
+                stroke-dashoffset: 762.049072265625px;
+                stroke-dasharray: 762.049072265625px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.6s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.3s;
+            }
+
+            svg.active .svg-elem-31 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-32 {
+                stroke-dashoffset: 704.0113525390625px;
+                stroke-dasharray: 704.0113525390625px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.62s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.31s;
+            }
+
+            svg.active .svg-elem-32 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-33 {
+                stroke-dashoffset: 507.6825256347656px;
+                stroke-dasharray: 507.6825256347656px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.64s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.32s;
+            }
+
+            svg.active .svg-elem-33 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-34 {
+                stroke-dashoffset: 442.4103088378906px;
+                stroke-dasharray: 442.4103088378906px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.66s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.33s;
+            }
+
+            svg.active .svg-elem-34 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-35 {
+                stroke-dashoffset: 200.37789916992188px;
+                stroke-dasharray: 200.37789916992188px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.68s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.34s;
+            }
+
+            svg.active .svg-elem-35 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-36 {
+                stroke-dashoffset: 201.02975463867188px;
+                stroke-dasharray: 201.02975463867188px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.7000000000000001s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.35000000000000003s;
+            }
+
+            svg.active .svg-elem-36 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-37 {
+                stroke-dashoffset: 229.81072998046875px;
+                stroke-dasharray: 229.81072998046875px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.72s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.36s;
+            }
+
+            svg.active .svg-elem-37 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-38 {
+                stroke-dashoffset: 229.88345336914062px;
+                stroke-dasharray: 229.88345336914062px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.74s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.37s;
+            }
+
+            svg.active .svg-elem-38 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-39 {
+                stroke-dashoffset: 428.36798095703125px;
+                stroke-dasharray: 428.36798095703125px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.76s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.38s;
+            }
+
+            svg.active .svg-elem-39 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-40 {
+                stroke-dashoffset: 477.0530700683594px;
+                stroke-dasharray: 477.0530700683594px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.78s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.39s;
+            }
+
+            svg.active .svg-elem-40 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-41 {
+                stroke-dashoffset: 468.3650817871094px;
+                stroke-dasharray: 468.3650817871094px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.8s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.4s;
+            }
+
+            svg.active .svg-elem-41 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-42 {
+                stroke-dashoffset: 491.66143798828125px;
+                stroke-dasharray: 491.66143798828125px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.8200000000000001s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.41000000000000003s;
+            }
+
+            svg.active .svg-elem-42 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-43 {
+                stroke-dashoffset: 297.0557861328125px;
+                stroke-dasharray: 297.0557861328125px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.84s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.42s;
+            }
+
+            svg.active .svg-elem-43 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-44 {
+                stroke-dashoffset: 475.4941101074219px;
+                stroke-dasharray: 475.4941101074219px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.86s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.43s;
+            }
+
+            svg.active .svg-elem-44 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-45 {
+                stroke-dashoffset: 416.1706237792969px;
+                stroke-dasharray: 416.1706237792969px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.88s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.44s;
+            }
+
+            svg.active .svg-elem-45 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-46 {
+                stroke-dashoffset: 427.6529541015625px;
+                stroke-dasharray: 427.6529541015625px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.9s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.45s;
+            }
+
+            svg.active .svg-elem-46 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-47 {
+                stroke-dashoffset: 297.0122375488281px;
+                stroke-dasharray: 297.0122375488281px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.92s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.46s;
+            }
+
+            svg.active .svg-elem-47 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-48 {
+                stroke-dashoffset: 191.63482666015625px;
+                stroke-dasharray: 191.63482666015625px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.9400000000000001s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.47000000000000003s;
+            }
+
+            svg.active .svg-elem-48 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-49 {
+                stroke-dashoffset: 476.8240661621094px;
+                stroke-dasharray: 476.8240661621094px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.96s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.48s;
+            }
+
+            svg.active .svg-elem-49 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-50 {
+                stroke-dashoffset: 467.97235107421875px;
+                stroke-dasharray: 467.97235107421875px;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0.98s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.49s;
+            }
+
+            svg.active .svg-elem-50 {
+                stroke-dashoffset: 0;
+            }
+
+            svg .svg-elem-51 {
+                stroke-dashoffset: 105.13982391357422px;
+                stroke-dasharray: 105.13982391357422px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.5s;
+            }
+
+            svg.active .svg-elem-51 {
+                stroke-dashoffset: 0;
+                fill: rgb(6, 54, 96);
+            }
+
+            svg .svg-elem-52 {
+                stroke-dashoffset: 1872.1982421875px;
+                stroke-dasharray: 1872.1982421875px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.02s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.51s;
+            }
+
+            svg.active .svg-elem-52 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-53 {
+                stroke-dashoffset: 1826.123046875px;
+                stroke-dasharray: 1826.123046875px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.04s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.52s;
+            }
+
+            svg.active .svg-elem-53 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-54 {
+                stroke-dashoffset: 1780.519775390625px;
+                stroke-dasharray: 1780.519775390625px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.06s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.53s;
+            }
+
+            svg.active .svg-elem-54 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-55 {
+                stroke-dashoffset: 1735.75390625px;
+                stroke-dasharray: 1735.75390625px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.08s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.54s;
+            }
+
+            svg.active .svg-elem-55 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-56 {
+                stroke-dashoffset: 1689.1563720703125px;
+                stroke-dasharray: 1689.1563720703125px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.1s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.55s;
+            }
+
+            svg.active .svg-elem-56 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-57 {
+                stroke-dashoffset: 1644.700927734375px;
+                stroke-dasharray: 1644.700927734375px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.12s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.56s;
+            }
+
+            svg.active .svg-elem-57 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-58 {
+                stroke-dashoffset: 1573.084716796875px;
+                stroke-dasharray: 1573.084716796875px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.1400000000000001s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.5700000000000001s;
+            }
+
+            svg.active .svg-elem-58 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-59 {
+                stroke-dashoffset: 1527.828125px;
+                stroke-dasharray: 1527.828125px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.16s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.58s;
+            }
+
+            svg.active .svg-elem-59 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-60 {
+                stroke-dashoffset: 1483.738525390625px;
+                stroke-dasharray: 1483.738525390625px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.18s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.59s;
+            }
+
+            svg.active .svg-elem-60 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-61 {
+                stroke-dashoffset: 1435.318115234375px;
+                stroke-dasharray: 1435.318115234375px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.2s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.6s;
+            }
+
+            svg.active .svg-elem-61 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-62 {
+                stroke-dashoffset: 1057.453857421875px;
+                stroke-dasharray: 1057.453857421875px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.22s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.61s;
+            }
+
+            svg.active .svg-elem-62 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-63 {
+                stroke-dashoffset: 1013.94384765625px;
+                stroke-dasharray: 1013.94384765625px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.24s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.62s;
+            }
+
+            svg.active .svg-elem-63 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-64 {
+                stroke-dashoffset: 965.2638549804688px;
+                stroke-dasharray: 965.2638549804688px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.26s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.63s;
+            }
+
+            svg.active .svg-elem-64 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-65 {
+                stroke-dashoffset: 922.8863525390625px;
+                stroke-dasharray: 922.8863525390625px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.28s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.64s;
+            }
+
+            svg.active .svg-elem-65 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-66 {
+                stroke-dashoffset: 780.9395751953125px;
+                stroke-dasharray: 780.9395751953125px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.3s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.65s;
+            }
+
+            svg.active .svg-elem-66 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-67 {
+                stroke-dashoffset: 731.6480712890625px;
+                stroke-dasharray: 731.6480712890625px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.32s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.66s;
+            }
+
+            svg.active .svg-elem-67 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-68 {
+                stroke-dashoffset: 683.6544189453125px;
+                stroke-dasharray: 683.6544189453125px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.34s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.67s;
+            }
+
+            svg.active .svg-elem-68 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-69 {
+                stroke-dashoffset: 635.363525390625px;
+                stroke-dasharray: 635.363525390625px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.36s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.68s;
+            }
+
+            svg.active .svg-elem-69 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-70 {
+                stroke-dashoffset: 588.449951171875px;
+                stroke-dasharray: 588.449951171875px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.3800000000000001s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.6900000000000001s;
+            }
+
+            svg.active .svg-elem-70 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-71 {
+                stroke-dashoffset: 2045.632080078125px;
+                stroke-dasharray: 2045.632080078125px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.4000000000000001s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.7000000000000001s;
+            }
+
+            svg.active .svg-elem-71 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-72 {
+                stroke-dashoffset: 474.20001220703125px;
+                stroke-dasharray: 474.20001220703125px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.42s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.71s;
+            }
+
+            svg.active .svg-elem-72 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-73 {
+                stroke-dashoffset: 473.9109802246094px;
+                stroke-dasharray: 473.9109802246094px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.44s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.72s;
+            }
+
+            svg.active .svg-elem-73 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-74 {
+                stroke-dashoffset: 474.1900329589844px;
+                stroke-dasharray: 474.1900329589844px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.46s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.73s;
+            }
+
+            svg.active .svg-elem-74 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-75 {
+                stroke-dashoffset: 474.2300720214844px;
+                stroke-dasharray: 474.2300720214844px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.48s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.74s;
+            }
+
+            svg.active .svg-elem-75 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-76 {
+                stroke-dashoffset: 499.4619140625px;
+                stroke-dasharray: 499.4619140625px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.5s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.75s;
+            }
+
+            svg.active .svg-elem-76 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-77 {
+                stroke-dashoffset: 499.54998779296875px;
+                stroke-dasharray: 499.54998779296875px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.52s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.76s;
+            }
+
+            svg.active .svg-elem-77 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-78 {
+                stroke-dashoffset: 499.5201416015625px;
+                stroke-dasharray: 499.5201416015625px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.54s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.77s;
+            }
+
+            svg.active .svg-elem-78 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-79 {
+                stroke-dashoffset: 499.5900573730469px;
+                stroke-dasharray: 499.5900573730469px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.56s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.78s;
+            }
+
+            svg.active .svg-elem-79 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-80 {
+                stroke-dashoffset: 499.3665466308594px;
+                stroke-dasharray: 499.3665466308594px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.58s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.79s;
+            }
+
+            svg.active .svg-elem-80 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-81 {
+                stroke-dashoffset: 575.79638671875px;
+                stroke-dasharray: 575.79638671875px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.6s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.8s;
+            }
+
+            svg.active .svg-elem-81 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-82 {
+                stroke-dashoffset: 762.049072265625px;
+                stroke-dasharray: 762.049072265625px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.62s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.81s;
+            }
+
+            svg.active .svg-elem-82 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-83 {
+                stroke-dashoffset: 704.0113525390625px;
+                stroke-dasharray: 704.0113525390625px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.6400000000000001s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.8200000000000001s;
+            }
+
+            svg.active .svg-elem-83 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-84 {
+                stroke-dashoffset: 507.6825256347656px;
+                stroke-dasharray: 507.6825256347656px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.6600000000000001s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.8300000000000001s;
+            }
+
+            svg.active .svg-elem-84 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-85 {
+                stroke-dashoffset: 442.4103088378906px;
+                stroke-dasharray: 442.4103088378906px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.68s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.84s;
+            }
+
+            svg.active .svg-elem-85 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-86 {
+                stroke-dashoffset: 200.37789916992188px;
+                stroke-dasharray: 200.37789916992188px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.7s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.85s;
+            }
+
+            svg.active .svg-elem-86 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-87 {
+                stroke-dashoffset: 201.02975463867188px;
+                stroke-dasharray: 201.02975463867188px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.72s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.86s;
+            }
+
+            svg.active .svg-elem-87 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-88 {
+                stroke-dashoffset: 229.81072998046875px;
+                stroke-dasharray: 229.81072998046875px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.74s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.87s;
+            }
+
+            svg.active .svg-elem-88 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-89 {
+                stroke-dashoffset: 229.88345336914062px;
+                stroke-dasharray: 229.88345336914062px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.76s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.88s;
+            }
+
+            svg.active .svg-elem-89 {
+                stroke-dashoffset: 0;
+                fill: rgb(11, 101, 177);
+            }
+
+            svg .svg-elem-90 {
+                stroke-dashoffset: 428.36798095703125px;
+                stroke-dasharray: 428.36798095703125px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.78s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.89s;
+            }
+
+            svg.active .svg-elem-90 {
+                stroke-dashoffset: 0;
+                fill: rgb(43, 42, 41);
+            }
+
+            svg .svg-elem-91 {
+                stroke-dashoffset: 477.0530700683594px;
+                stroke-dasharray: 477.0530700683594px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.8s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.9s;
+            }
+
+            svg.active .svg-elem-91 {
+                stroke-dashoffset: 0;
+                fill: rgb(43, 42, 41);
+            }
+
+            svg .svg-elem-92 {
+                stroke-dashoffset: 468.3650817871094px;
+                stroke-dasharray: 468.3650817871094px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.82s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.91s;
+            }
+
+            svg.active .svg-elem-92 {
+                stroke-dashoffset: 0;
+                fill: rgb(43, 42, 41);
+            }
+
+            svg .svg-elem-93 {
+                stroke-dashoffset: 491.66143798828125px;
+                stroke-dasharray: 491.66143798828125px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.84s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.92s;
+            }
+
+            svg.active .svg-elem-93 {
+                stroke-dashoffset: 0;
+                fill: rgb(43, 42, 41);
+            }
+
+            svg .svg-elem-94 {
+                stroke-dashoffset: 297.0557861328125px;
+                stroke-dasharray: 297.0557861328125px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.86s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.93s;
+            }
+
+            svg.active .svg-elem-94 {
+                stroke-dashoffset: 0;
+                fill: rgb(43, 42, 41);
+            }
+
+            svg .svg-elem-95 {
+                stroke-dashoffset: 475.4941101074219px;
+                stroke-dasharray: 475.4941101074219px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.8800000000000001s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.9400000000000001s;
+            }
+
+            svg.active .svg-elem-95 {
+                stroke-dashoffset: 0;
+                fill: rgb(43, 42, 41);
+            }
+
+            svg .svg-elem-96 {
+                stroke-dashoffset: 416.1706237792969px;
+                stroke-dasharray: 416.1706237792969px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.9000000000000001s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.9500000000000001s;
+            }
+
+            svg.active .svg-elem-96 {
+                stroke-dashoffset: 0;
+                fill: rgb(43, 42, 41);
+            }
+
+            svg .svg-elem-97 {
+                stroke-dashoffset: 427.6529541015625px;
+                stroke-dasharray: 427.6529541015625px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.92s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.96s;
+            }
+
+            svg.active .svg-elem-97 {
+                stroke-dashoffset: 0;
+                fill: rgb(43, 42, 41);
+            }
+
+            svg .svg-elem-98 {
+                stroke-dashoffset: 297.0122375488281px;
+                stroke-dasharray: 297.0122375488281px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.94s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.97s;
+            }
+
+            svg.active .svg-elem-98 {
+                stroke-dashoffset: 0;
+                fill: rgb(43, 42, 41);
+            }
+
+            svg .svg-elem-99 {
+                stroke-dashoffset: 191.63482666015625px;
+                stroke-dasharray: 191.63482666015625px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.96s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.98s;
+            }
+
+            svg.active .svg-elem-99 {
+                stroke-dashoffset: 0;
+                fill: rgb(43, 42, 41);
+            }
+
+            svg .svg-elem-100 {
+                stroke-dashoffset: 476.8240661621094px;
+                stroke-dasharray: 476.8240661621094px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 1.98s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.99s;
+            }
+
+            svg.active .svg-elem-100 {
+                stroke-dashoffset: 0;
+                fill: rgb(43, 42, 41);
+            }
+
+            svg .svg-elem-101 {
+                stroke-dashoffset: 467.97235107421875px;
+                stroke-dasharray: 467.97235107421875px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 2s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 1s;
+            }
+
+            svg.active .svg-elem-101 {
+                stroke-dashoffset: 0;
+                fill: rgb(43, 42, 41);
+            }
+
+            svg .svg-elem-102 {
+                stroke-dashoffset: 105.13982391357422px;
+                stroke-dasharray: 105.13982391357422px;
+                fill: transparent;
+                transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 2.02s,
+                    fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 1.01s;
+            }
+
+            svg.active .svg-elem-102 {
+                stroke-dashoffset: 0;
+                fill: rgb(6, 54, 96);
+            }
+        </style>
+    </defs>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_1-2" data-name="Layer 1">
+            <g id="_0b65b1ff" data-name="#0b65b1ff">
+                <path class="cls-1 svg-elem-1"
+                    d="M237.52,893q0-445.33,0-890.68c13,6.09,26.32,11.76,39.17,18.1q0,168.69,0,337.36c-6.4,3-12.82,5.87-19.24,8.8,0,59.37-.13,118.75.06,178.12,6.41,2.92,12.82,5.86,19.19,8.89q0,169.7,0,339.4Q257.1,893.08,237.52,893Z">
+                </path>
+                <path class="cls-1 svg-elem-2"
+                    d="M287.72,25.33c13,6.06,26.39,11.73,39.18,18.13q-.06,145.74,0,291.48c-6.4,2.95-12.84,5.83-19.24,8.79q-.06,112.08,0,224.15c6.39,3,12.82,6,19.23,8.91q.17,158.13,0,316.25-19.41,0-38.82,0l-.39-.3Q287.85,459,287.72,25.33Z">
+                </path>
+                <path class="cls-1 svg-elem-3"
+                    d="M337.64,48.25c13.1,5.68,26,11.87,39.05,17.69.32,82,0,164.09.15,246.13-6.37,3.07-12.85,5.88-19.26,8.86q-.15,135,0,270.06c6.39,3,12.82,5.94,19.23,8.92q.19,146.57.05,293.13c-13.05,0-26.1,0-39.14,0Q337.58,470.65,337.64,48.25Z">
+                </path>
+                <path class="cls-1 svg-elem-4"
+                    d="M386.77,70.58c13.05,6,26.13,11.9,39.16,17.92-.05,67.1.13,134.22-.09,201.32-6.35,2.81-12.63,5.78-19,8.6-.51,11.83-.07,23.88-.22,35.8q0,139.72,0,279.45c6.37,3.1,12.85,6,19.27,9q.12,135.2,0,270.39c-13,0-26.08,0-39.12,0Q386.66,481.82,386.77,70.58Z">
+                </path>
+                <path class="cls-1 svg-elem-5"
+                    d="M437.54,94.45l.23-.68c12.87,6.18,26,11.88,38.91,17.92q0,77.44,0,154.9c-6.41,3-12.87,5.82-19.26,8.83q0,180.88,0,361.77c6.31,3,12.71,5.91,19.07,8.86.51,11,.06,22.15.21,33.21q0,106.88,0,213.77-19.57,0-39.15,0Q437.53,493.75,437.54,94.45Z">
+                </path>
+                <path class="cls-1 svg-elem-6"
+                    d="M486.09,116c13,5.9,25.88,11.85,38.83,17.73l.34.56q0,55.07,0,110.13c-6.39,3-12.88,5.85-19.27,8.86q-.08,203.13,0,406.25c6.13,3.31,12.69,6,19,9l.31.63c-.12,74.64.18,149.32-.14,223.94q-19.5,0-39,0Q486,504.51,486.09,116Z">
+                </path>
+                <path class="cls-1 svg-elem-7"
+                    d="M537.69,139.56c13,6,26.12,11.9,39.15,17.93q0,367.77,0,735.55c-13.06-.14-26.25.33-39.22-.23Q537.83,516.19,537.69,139.56Z">
+                </path>
+                <path class="cls-1 svg-elem-8"
+                    d="M587.34,162.28q19.6,8.88,39.15,17.9,0,356.43,0,712.87-19.57,0-39.14,0Q587.31,527.66,587.34,162.28Z">
+                </path>
+                <path class="cls-1 svg-elem-9"
+                    d="M635.34,184.23q19.62,8.86,39.16,17.89.06,343.08,0,686.14c-.29,1.52.53,3.48-.29,4.79q-19.44,0-38.86,0Q635.3,538.64,635.34,184.23Z">
+                </path>
+                <path class="cls-1 svg-elem-10"
+                    d="M688.6,893q0-342.25,0-684.5c13,6,26.16,11.88,39.17,18q0,333.27,0,666.54Q708.18,893.07,688.6,893Z">
+                </path>
+                <path class="cls-1 svg-elem-11"
+                    d="M185.1,399.16c8.79-4.14,17.66-8.13,26.47-12.22q.06,252.9.05,505.79l-.37.32c-8.71,0-17.42,0-26.13,0Q185,646.1,185.1,399.16Z">
+                </path>
+                <path class="cls-1 svg-elem-12"
+                    d="M137.66,421c8.8-4.1,17.64-8.13,26.45-12.19q0,242.13,0,484.27c-8.83,0-17.65,0-26.47,0Q137.66,657,137.66,421Z">
+                </path>
+                <path class="cls-1 svg-elem-13"
+                    d="M85.22,445.12c8.63-4.09,17.35-8,26-12l.5.29q0,229.83,0,459.66c-8.81,0-17.63,0-26.44,0Q85.15,669.1,85.22,445.12Z">
+                </path>
+                <path class="cls-1 svg-elem-14"
+                    d="M38.89,466.4q13.22-6.11,26.45-12.17,0,174.06,0,348.11c-.11,30.23.22,60.54-.17,90.71-8.76,0-17.53,0-26.3,0Q38.85,679.73,38.89,466.4Z">
+                </path>
+                <path class="cls-1 svg-elem-15"
+                    d="M749,525c8.8,4.36,17.87,8.35,26.51,13q-.1,124.14,0,248.28c-.12,35.58.23,71.27-.18,106.78-8.76,0-17.53,0-26.29,0Q749,709,749,525Z">
+                </path>
+                <path class="cls-1 svg-elem-16"
+                    d="M800.34,549.75c8.81,4.28,17.67,8.48,26.47,12.79q0,165.26,0,330.5-13.23,0-26.46,0Q800.31,721.4,800.34,549.75Z">
+                </path>
+                <path class="cls-1 svg-elem-17"
+                    d="M850,573.69q13.23,6.36,26.46,12.75.13,153.12.06,306.24l-.31.37c-8.73,0-17.47,0-26.2,0Q850,733.37,850,573.69Z">
+                </path>
+                <path class="cls-1 svg-elem-18"
+                    d="M900.22,597.87c8.8,4.3,17.67,8.47,26.46,12.8q0,141.18,0,282.36c-8.82.05-17.64,0-26.45,0Q900.16,745.46,900.22,597.87Z">
+                </path>
+                <path class="cls-1 svg-elem-19"
+                    d="M948.75,621.31c8.83,4.25,17.76,8.38,26.48,12.84q0,129.45,0,258.89c-8.8,0-17.6,0-26.4,0Q948.67,757.18,948.75,621.31Z">
+                </path>
+                <path class="cls-1 svg-elem-20"
+                    d="M8.79,911.77c48.44-.19,96.89,0,145.33-.08q424,.06,848,.06V912c-.32,9.43,0,18.89-.15,28.33q-496.59,0-993.16,0C8.76,930.83,8.84,921.3,8.79,911.77Z">
+                </path>
+                <path class="cls-1 svg-elem-21"
+                    d="M24,1075.16q13.23,0,26.45,0,0,104.82,0,209.64-13.25,0-26.47,0Q24,1180,24,1075.16Z"></path>
+                <path class="cls-1 svg-elem-22"
+                    d="M70.34,1075.16c8.8.15,17.79-.37,26.48.26q0,94.39,0,188.8c-.1,6.87.19,13.78-.14,20.64-8.79-.12-17.58,0-26.36-.08Q70.37,1180,70.34,1075.16Z">
+                </path>
+                <path class="cls-1 svg-elem-23"
+                    d="M122.76,1075.16q13.21,0,26.45,0,0,104.82,0,209.64-13.23,0-26.46,0Q122.72,1180,122.76,1075.16Z">
+                </path>
+                <path class="cls-1 svg-elem-24"
+                    d="M170.21,1075.16q13.23,0,26.46,0,0,104.82,0,209.65H170.2Q170.19,1180,170.21,1075.16Z"></path>
+                <path class="cls-1 svg-elem-25"
+                    d="M222.63,1075.16c12.9,0,25.8,0,38.71,0l.46.34c-.06,69.78.05,139.57-.05,209.36-13,0-26.08,0-39.12,0Q222.6,1180,222.63,1075.16Z">
+                </path>
+                <path class="cls-1 svg-elem-26"
+                    d="M272.84,1075.16q19.57,0,39.15,0,0,104.8,0,209.62c-13.05,0-26.11,0-39.16,0Q272.81,1180,272.84,1075.16Z">
+                </path>
+                <path class="cls-1 svg-elem-27"
+                    d="M322.78,1075.16q19.58,0,39.14,0,.07,104.8,0,209.6c-13.06.12-26.13,0-39.18,0Q322.75,1180,322.78,1075.16Z">
+                </path>
+                <path class="cls-1 svg-elem-28"
+                    d="M371.89,1075.16q19.56,0,39.14,0,0,104.82,0,209.65-19.57,0-39.15,0Q371.85,1180,371.89,1075.16Z">
+                </path>
+                <path class="cls-1 svg-elem-29"
+                    d="M422.65,1075.16c13,.12,26.21-.31,39.17.21q0,87.47,0,174.92c-.13,11.51.25,23.11-.19,34.57-13-.1-26,0-39,0Q422.61,1180,422.65,1075.16Z">
+                </path>
+                <path class="cls-1 svg-elem-30"
+                    d="M475.9,1075.16c33.53-.09,67.05.12,100.57-.1q-26.85,104.84-53.42,209.74-23.58,0-47.15,0Q475.87,1180,475.9,1075.16Z">
+                </path>
+                <path class="cls-1 svg-elem-31"
+                    d="M606,1075.11c32.76.12,65.51,0,98.27.08-8,3.89-15.16,9.8-19.74,17.54-9.22,15.34-11.53,34.11-8.9,51.63,1.89,12.17,6.77,24.14,15.16,33.28,10.07,10.45,24,15.48,37.27,20.54,7.45,3.17,15.77,5.63,21.25,12,5,6.07,5.51,14.56,4.32,22-1.61,8.76-6.85,17.63-15.48,20.94-10,3.71-22.62,2.36-29.87-6-7.83-9-10-21.21-11.56-32.63-9,1.31-18,2.8-27,4,0,8.59,1.79,17.47,3.77,26,4,15.83,11.91,32,26.61,40.4-13-.12-25.95,0-38.93-.07C642.67,1214.91,624.49,1145,606,1075.11Z">
+                </path>
+                <path class="cls-1 svg-elem-32"
+                    d="M747,1075.18c19.37-.07,38.73,0,58.1,0q.09,104.55,0,209.1c-14.68,0-29.36,0-44,0-1.65-.17-3.5.38-4.93-.61,7.4-4.14,12.92-11,16.86-18.44,8.94-17.08,10.73-37.07,8.15-56-1.93-14.53-8-29.2-19.46-38.72-12-9.71-27.13-13.81-41.07-19.78-5.65-2.67-11.64-5.47-15.54-10.53-4.09-5.58-4.68-13.17-2.72-19.66,2.44-7.56,10.07-12.38,17.69-13.32,7.84-1.08,17,.31,22.22,6.82,5.27,6.69,6.67,15.43,7.76,23.64q14-.69,28.09-1.49c-.36-17.18-4.1-35.2-15.15-48.85C758.82,1082,753,1078.23,747,1075.18Z">
+                </path>
+                <path class="cls-1 svg-elem-33"
+                    d="M833.3,1075.14c22.18,0,44.36.06,66.53,0Q873.19,1180,846.48,1284.8c-4.4,0-8.82.11-13.21-.06Q833.35,1179.94,833.3,1075.14Z">
+                </path>
+                <path class="cls-1 svg-elem-34"
+                    d="M929.47,1075.09c17,.13,34,0,51,.07.06,63.68-.05,127.36.06,191l-1-.12C963,1202.37,946.12,1138.76,929.47,1075.09Z">
+                </path>
+                <path class="cls-1 svg-elem-35"
+                    d="M590.78,1125.34l.54.59q9.46,38.64,19,77.26c-12.65.07-25.3-.06-37.95.07C578.26,1177.24,584.85,1151.35,590.78,1125.34Z">
+                </path>
+                <path class="cls-1 svg-elem-36"
+                    d="M914.39,1125c6.67,26,12.92,52.16,19.34,78.24-12.68,0-25.35,0-38,0Q905,1164.08,914.39,1125Z">
+                </path>
+                <path class="cls-1 svg-elem-37"
+                    d="M552.79,1284.81c3.72-15.25,7.12-30.62,11.09-45.79q27.75,0,55.5,0c3.92,15.22,7.61,30.52,11.43,45.77Q591.79,1284.84,552.79,1284.81Z">
+                </path>
+                <path class="cls-1 svg-elem-38"
+                    d="M887.18,1239.05q27.84,0,55.68,0,5.73,22.88,11.38,45.76-39,0-78,0Q881.66,1261.93,887.18,1239.05Z">
+                </path>
+            </g>
+            <g id="_2b2a29ff" data-name="#2b2a29ff">
+                <path class="cls-2 svg-elem-39"
+                    d="M5.82,964.91c2.89-2.28,6.74-2.67,10.29-2.66,11.66,0,23.32,0,35,0,4.28,0,9.46,1.29,11.33,5.62,2.76,6.75,1.9,14.25,2,21.37-4.45,1-8.9,2-13.36,3,0-5.17,0-10.33,0-15.49q-18.09,0-36.17,0,0,25.82,0,51.65,18.06,0,36.14,0c0-5.85,0-11.69,0-17.53,4.46,1.38,9.05,2.46,13.42,4.07-.28,7.56.8,15.44-1.86,22.7-1.65,4.63-7,6-11.47,6.08q-18,0-36,0c-4-.08-8.67-.92-11-4.51-2.19-4-2.39-8.61-2.57-13-.06-13,0-26,0-39,0-5.39-.24-10.87,1-16.16C3,968.8,3.87,966.38,5.82,964.91Z">
+                </path>
+                <path class="cls-2 svg-elem-40"
+                    d="M99.57,962.87a32.37,32.37,0,0,1,8.51-.62q20,0,40.06,0c4.1,0,9,.89,11.21,4.76s2.43,8.77,2.58,13.27c0,13.65,0,27.3,0,41-.3,6.89.92,15.83-5.26,20.54-2.83,1.74-6.27,2-9.52,2-14.38,0-28.77,0-43.15,0-3.92-.15-8.49-1.13-10.63-4.76-2.45-4.86-2.37-10.48-2.45-15.78.08-15.3-.16-30.61.13-45.9.15-5.75,1.72-13.36,8.5-14.46m4.75,14.1c.06,17.16,0,34.32,0,51.48q22.1.06,44.19,0,0-25.83,0-51.66C133.82,976.89,119,976.55,104.32,977Z">
+                </path>
+                <path class="cls-2 svg-elem-41"
+                    d="M191.22,962.26c3,0,6,0,8.95,0,12,13.63,23.5,27.81,35.31,41.65,4.06,5,8.69,9.6,12,15.17-1.12-18.92-.38-37.88-.57-56.81,4,0,8-.07,12,0,0,27.14,0,54.27,0,81.41-3,.22-6,0-9,.1-8.38-9.4-16.29-19.33-24.48-28.93-7.6-9.3-15.72-18.18-22.85-27.82,1.16,18.88.31,37.82.56,56.73-4,0-8,0-12.06,0C191.23,1016.59,191.18,989.43,191.22,962.26Z">
+                </path>
+                <path class="cls-2 svg-elem-42"
+                    d="M289.3,967.47c2-4,6.76-5.12,10.82-5.2q17.52-.06,35,0c4.27.07,9.37,1.42,11.2,5.74A27.22,27.22,0,0,1,348,981.93c-3.82,1.29-7.66,2.51-11.45,3.88-.33-3.11.23-6.31-.27-9.35q-18.75,0-37.51,0c-.15,5.75.06,11.51-.1,17.28,11,.64,22.31.09,33.44.27,4.9-.07,10.89-.06,14.19,4.23,3.24,5.74,2.65,12.67,2.78,19-.16,7,.65,14.31-2,20.94-1.78,4.17-6.79,5.4-10.91,5.55-12.66.07-25.33,0-38,0-4.42,0-9.78-1.38-11.54-6a35.32,35.32,0,0,1-1.72-15.59l11.63-3.41c0,3.13,0,6.27,0,9.42,13.49.5,27.18.09,40.74.2q0-9.32,0-18.61c-12.37-.07-24.75,0-37.12-.05-4.19-.09-9.15-1.35-11-5.55-2.58-6-2-12.67-2.11-19C287.06,979.27,286.68,973,289.3,967.47Z">
+                </path>
+                <path class="cls-2 svg-elem-43"
+                    d="M366.41,962.35c22.15-.19,44.32-.15,66.46,0,0,4.81,0,9.63,0,14.44-8.86.07-17.71-.06-26.56.06,0,19.83,0,39.65,0,59.48-.27,2.44.54,5.26-.37,7.5-4.34-.2-8.79.3-13.06-.23.09-22.2,0-44.39.05-66.58-8.72-.51-17.65-.06-26.46-.23C366.39,972,366.46,967.16,366.41,962.35Z">
+                </path>
+                <path class="cls-2 svg-elem-44"
+                    d="M448.53,962.39c14.84-.33,29.71,0,44.56-.14,4.36,0,9.16-.49,13,2.09,3.61,2.35,4.38,7,4.7,11,.2,7.65.07,15.31.08,23-.17,4.54-.86,10-5,12.68-4.61,2.92-10.31,1.74-15.45,2,8.78,10.33,17.67,20.59,26.56,30.84-6.49-.21-13.14.38-19.54-.29-7.66-10.21-15.23-20.51-23.11-30.54-4.18,0-8.37,0-12.55,0-.07,10.27.06,20.55-.07,30.82-4.36,0-8.71,0-13.06,0-.16-27.14,0-54.29-.09-81.43m13.21,13.93c0,7.58-.05,15.17,0,22.75,10.15,0,20.3,0,30.46,0,2.17.08,4.93-.72,5.31-3.21.72-4.83.27-9.79.3-14.65a4.52,4.52,0,0,0-4.61-4.83C482.74,976.23,472.24,976.33,461.74,976.32Z">
+                </path>
+                <path class="cls-2 svg-elem-45"
+                    d="M538.12,962.27c4.45,0,8.91,0,13.36,0q0,32.87,0,65.74l.4.5c12.44-.06,24.88,0,37.32,0l.48-.33c0-22,0-43.93,0-65.89q6.67,0,13.36,0,0,31.53,0,63.06c-.16,4.77-.25,9.88-2.73,14.12-2.44,3.54-7.13,4.29-11.14,4.35-12.67,0-25.35,0-38,0-3.94-.12-8.54-1.14-10.59-4.87-2.23-4.17-2.35-9-2.49-13.64Q538.08,993.76,538.12,962.27Z">
+                </path>
+                <path class="cls-2 svg-elem-46"
+                    d="M633.12,966.21c3.11-3.79,8.49-4.05,13-4,11.35,0,22.7,0,34,0,4.34.08,9.5,1.63,11.08,6.15,2.45,6.64,1.69,13.88,1.8,20.83-4.47.93-8.92,2.27-13.42,2.86.07-5.11,0-10.22,0-15.32-12-.06-24,.05-36-.06-.34,14.49,0,29-.14,43.55.29,2.68-.57,5.75.38,8.22q17.75-.1,35.48,0c.75-5.69.07-11.76.32-17.58,4.4,1.28,8.79,2.61,13.21,3.85.2,7.49.85,15.38-1.54,22.64-1.48,4.66-6.79,6.29-11.19,6.35-12.33.06-24.65,0-37,0-3.94-.14-8.59-1.15-10.69-4.84-2.12-4.21-2.27-9.06-2.39-13.67,0-15.32-.06-30.64,0-46C630.39,974.85,630.56,970,633.12,966.21Z">
+                </path>
+                <path class="cls-2 svg-elem-47"
+                    d="M709.36,962.37c22.15-.18,44.36-.24,66.49,0-.08,4.79,0,9.58-.05,14.37-8.86.07-17.71-.06-26.56.07q0,31.17,0,62.36c-.26,1.48.51,3.33-.37,4.62-4.36-.19-8.77.25-13.08-.21,0-22.28.3-44.65-.17-66.88-8.74.12-17.48,0-26.22,0C709.34,972,709.43,967.17,709.36,962.37Z">
+                </path>
+                <path class="cls-2 svg-elem-48"
+                    d="M791.8,962.27q6.66-.06,13.35,0,.12,40.54.14,81.09l-.32.45c-4.4-.09-8.82.14-13.21-.11C791.83,1016.55,791.74,989.41,791.8,962.27Z">
+                </path>
+                <path class="cls-2 svg-elem-49"
+                    d="M842.29,962.56c14.94-.72,29.94-.11,44.91-.31,4.47-.07,9.91.1,12.9,4,2.82,4.08,2.9,9.31,3.1,14.1q0,22.95,0,45.9c-.21,4.47-.37,9.28-2.81,13.19-2.44,3.64-7.23,4.31-11.27,4.35-14.68,0-29.37,0-44.05,0-4.41-.09-9.72-1.71-11.17-6.39-2.55-7.77-1.43-16.08-1.69-24.11.22-12.93-.46-25.89.39-38.8.12-5.64,3.52-11.59,9.7-11.9m3.34,14.26c-.06,17.08,0,34.16,0,51.24,1.11,1,3,.09,4.48.41,13.09,0,26.19,0,39.28,0l.47-.4c-.05-17.1,0-34.19,0-51.28Q867.71,976.75,845.63,976.82Z">
+                </path>
+                <path class="cls-2 svg-elem-50"
+                    d="M932.47,962.33a62.2,62.2,0,0,1,9.36.11q18,21.49,36.13,42.92c3.68,4.52,7.88,8.64,10.77,13.76-1-18.93-.37-37.91-.53-56.86q6,0,12,0c0,27,.06,54.05,0,81.07l-.25.48c-3-.15-6,.17-9-.16l-38.43-45.82c-2.89-3.49-6-6.85-8.29-10.74.53,18.86.21,37.79.28,56.68-4,.06-8-.06-11.94.06C932.33,1016.68,932.55,989.5,932.47,962.33Z">
+                </path>
+            </g>
+            <g id="_0636608a" data-name="#0636608a">
+                <path class="cls-3 svg-elem-51"
+                    d="M754.42,1285.28a12.73,12.73,0,0,1,1.77-1.6c1.43,1,3.28.44,4.93.61,14.67,0,29.35,0,44,0l0,1Z">
+                </path>
+            </g>
+            <g id="_0b65b1ff-2" data-name="#0b65b1ff">
+                <path class="cls-4 svg-elem-52"
+                    d="M237.52,893q0-445.33,0-890.68c13,6.09,26.32,11.76,39.17,18.1q0,168.69,0,337.36c-6.4,3-12.82,5.87-19.24,8.8,0,59.37-.13,118.75.06,178.12,6.41,2.92,12.82,5.86,19.19,8.89q0,169.7,0,339.4Q257.1,893.08,237.52,893Z">
+                </path>
+                <path class="cls-4 svg-elem-53"
+                    d="M287.72,25.33c13,6.06,26.39,11.73,39.18,18.13q-.06,145.74,0,291.48c-6.4,2.95-12.84,5.83-19.24,8.79q-.06,112.08,0,224.15c6.39,3,12.82,6,19.23,8.91q.17,158.13,0,316.25-19.41,0-38.82,0l-.39-.3Q287.85,459,287.72,25.33Z">
+                </path>
+                <path class="cls-4 svg-elem-54"
+                    d="M337.64,48.25c13.1,5.68,26,11.87,39.05,17.69.32,82,0,164.09.15,246.13-6.37,3.07-12.85,5.88-19.26,8.86q-.15,135,0,270.06c6.39,3,12.82,5.94,19.23,8.92q.19,146.57.05,293.13c-13.05,0-26.1,0-39.14,0Q337.58,470.65,337.64,48.25Z">
+                </path>
+                <path class="cls-4 svg-elem-55"
+                    d="M386.77,70.58c13.05,6,26.13,11.9,39.16,17.92-.05,67.1.13,134.22-.09,201.32-6.35,2.81-12.63,5.78-19,8.6-.51,11.83-.07,23.88-.22,35.8q0,139.72,0,279.45c6.37,3.1,12.85,6,19.27,9q.12,135.2,0,270.39c-13,0-26.08,0-39.12,0Q386.66,481.82,386.77,70.58Z">
+                </path>
+                <path class="cls-4 svg-elem-56"
+                    d="M437.54,94.45l.23-.68c12.87,6.18,26,11.88,38.91,17.92q0,77.44,0,154.9c-6.41,3-12.87,5.82-19.26,8.83q0,180.88,0,361.77c6.31,3,12.71,5.91,19.07,8.86.51,11,.06,22.15.21,33.21q0,106.88,0,213.77-19.57,0-39.15,0Q437.53,493.75,437.54,94.45Z">
+                </path>
+                <path class="cls-4 svg-elem-57"
+                    d="M486.09,116c13,5.9,25.88,11.85,38.83,17.73l.34.56q0,55.07,0,110.13c-6.39,3-12.88,5.85-19.27,8.86q-.08,203.13,0,406.25c6.13,3.31,12.69,6,19,9l.31.63c-.12,74.64.18,149.32-.14,223.94q-19.5,0-39,0Q486,504.51,486.09,116Z">
+                </path>
+                <path class="cls-4 svg-elem-58"
+                    d="M537.69,139.56c13,6,26.12,11.9,39.15,17.93q0,367.77,0,735.55c-13.06-.14-26.25.33-39.22-.23Q537.83,516.19,537.69,139.56Z">
+                </path>
+                <path class="cls-4 svg-elem-59"
+                    d="M587.34,162.28q19.6,8.88,39.15,17.9,0,356.43,0,712.87-19.57,0-39.14,0Q587.31,527.66,587.34,162.28Z">
+                </path>
+                <path class="cls-4 svg-elem-60"
+                    d="M635.34,184.23q19.62,8.86,39.16,17.89.06,343.08,0,686.14c-.29,1.52.53,3.48-.29,4.79q-19.44,0-38.86,0Q635.3,538.64,635.34,184.23Z">
+                </path>
+                <path class="cls-4 svg-elem-61"
+                    d="M688.6,893q0-342.25,0-684.5c13,6,26.16,11.88,39.17,18q0,333.27,0,666.54Q708.18,893.07,688.6,893Z">
+                </path>
+                <path class="cls-4 svg-elem-62"
+                    d="M185.1,399.16c8.79-4.14,17.66-8.13,26.47-12.22q.06,252.9.05,505.79l-.37.32c-8.71,0-17.42,0-26.13,0Q185,646.1,185.1,399.16Z">
+                </path>
+                <path class="cls-4 svg-elem-63"
+                    d="M137.66,421c8.8-4.1,17.64-8.13,26.45-12.19q0,242.13,0,484.27c-8.83,0-17.65,0-26.47,0Q137.66,657,137.66,421Z">
+                </path>
+                <path class="cls-4 svg-elem-64"
+                    d="M85.22,445.12c8.63-4.09,17.35-8,26-12l.5.29q0,229.83,0,459.66c-8.81,0-17.63,0-26.44,0Q85.15,669.1,85.22,445.12Z">
+                </path>
+                <path class="cls-4 svg-elem-65"
+                    d="M38.89,466.4q13.22-6.11,26.45-12.17,0,174.06,0,348.11c-.11,30.23.22,60.54-.17,90.71-8.76,0-17.53,0-26.3,0Q38.85,679.73,38.89,466.4Z">
+                </path>
+                <path class="cls-4 svg-elem-66"
+                    d="M749,525c8.8,4.36,17.87,8.35,26.51,13q-.1,124.14,0,248.28c-.12,35.58.23,71.27-.18,106.78-8.76,0-17.53,0-26.29,0Q749,709,749,525Z">
+                </path>
+                <path class="cls-4 svg-elem-67"
+                    d="M800.34,549.75c8.81,4.28,17.67,8.48,26.47,12.79q0,165.26,0,330.5-13.23,0-26.46,0Q800.31,721.4,800.34,549.75Z">
+                </path>
+                <path class="cls-4 svg-elem-68"
+                    d="M850,573.69q13.23,6.36,26.46,12.75.13,153.12.06,306.24l-.31.37c-8.73,0-17.47,0-26.2,0Q850,733.37,850,573.69Z">
+                </path>
+                <path class="cls-4 svg-elem-69"
+                    d="M900.22,597.87c8.8,4.3,17.67,8.47,26.46,12.8q0,141.18,0,282.36c-8.82.05-17.64,0-26.45,0Q900.16,745.46,900.22,597.87Z">
+                </path>
+                <path class="cls-4 svg-elem-70"
+                    d="M948.75,621.31c8.83,4.25,17.76,8.38,26.48,12.84q0,129.45,0,258.89c-8.8,0-17.6,0-26.4,0Q948.67,757.18,948.75,621.31Z">
+                </path>
+                <path class="cls-4 svg-elem-71"
+                    d="M8.79,911.77c48.44-.19,96.89,0,145.33-.08q424,.06,848,.06V912c-.32,9.43,0,18.89-.15,28.33q-496.59,0-993.16,0C8.76,930.83,8.84,921.3,8.79,911.77Z">
+                </path>
+                <path class="cls-4 svg-elem-72"
+                    d="M24,1075.16q13.23,0,26.45,0,0,104.82,0,209.64-13.25,0-26.47,0Q24,1180,24,1075.16Z"></path>
+                <path class="cls-4 svg-elem-73"
+                    d="M70.34,1075.16c8.8.15,17.79-.37,26.48.26q0,94.39,0,188.8c-.1,6.87.19,13.78-.14,20.64-8.79-.12-17.58,0-26.36-.08Q70.37,1180,70.34,1075.16Z">
+                </path>
+                <path class="cls-4 svg-elem-74"
+                    d="M122.76,1075.16q13.21,0,26.45,0,0,104.82,0,209.64-13.23,0-26.46,0Q122.72,1180,122.76,1075.16Z">
+                </path>
+                <path class="cls-4 svg-elem-75"
+                    d="M170.21,1075.16q13.23,0,26.46,0,0,104.82,0,209.65H170.2Q170.19,1180,170.21,1075.16Z"></path>
+                <path class="cls-4 svg-elem-76"
+                    d="M222.63,1075.16c12.9,0,25.8,0,38.71,0l.46.34c-.06,69.78.05,139.57-.05,209.36-13,0-26.08,0-39.12,0Q222.6,1180,222.63,1075.16Z">
+                </path>
+                <path class="cls-4 svg-elem-77"
+                    d="M272.84,1075.16q19.57,0,39.15,0,0,104.8,0,209.62c-13.05,0-26.11,0-39.16,0Q272.81,1180,272.84,1075.16Z">
+                </path>
+                <path class="cls-4 svg-elem-78"
+                    d="M322.78,1075.16q19.58,0,39.14,0,.07,104.8,0,209.6c-13.06.12-26.13,0-39.18,0Q322.75,1180,322.78,1075.16Z">
+                </path>
+                <path class="cls-4 svg-elem-79"
+                    d="M371.89,1075.16q19.56,0,39.14,0,0,104.82,0,209.65-19.57,0-39.15,0Q371.85,1180,371.89,1075.16Z">
+                </path>
+                <path class="cls-4 svg-elem-80"
+                    d="M422.65,1075.16c13,.12,26.21-.31,39.17.21q0,87.47,0,174.92c-.13,11.51.25,23.11-.19,34.57-13-.1-26,0-39,0Q422.61,1180,422.65,1075.16Z">
+                </path>
+                <path class="cls-4 svg-elem-81"
+                    d="M475.9,1075.16c33.53-.09,67.05.12,100.57-.1q-26.85,104.84-53.42,209.74-23.58,0-47.15,0Q475.87,1180,475.9,1075.16Z">
+                </path>
+                <path class="cls-4 svg-elem-82"
+                    d="M606,1075.11c32.76.12,65.51,0,98.27.08-8,3.89-15.16,9.8-19.74,17.54-9.22,15.34-11.53,34.11-8.9,51.63,1.89,12.17,6.77,24.14,15.16,33.28,10.07,10.45,24,15.48,37.27,20.54,7.45,3.17,15.77,5.63,21.25,12,5,6.07,5.51,14.56,4.32,22-1.61,8.76-6.85,17.63-15.48,20.94-10,3.71-22.62,2.36-29.87-6-7.83-9-10-21.21-11.56-32.63-9,1.31-18,2.8-27,4,0,8.59,1.79,17.47,3.77,26,4,15.83,11.91,32,26.61,40.4-13-.12-25.95,0-38.93-.07C642.67,1214.91,624.49,1145,606,1075.11Z">
+                </path>
+                <path class="cls-4 svg-elem-83"
+                    d="M747,1075.18c19.37-.07,38.73,0,58.1,0q.09,104.55,0,209.1c-14.68,0-29.36,0-44,0-1.65-.17-3.5.38-4.93-.61,7.4-4.14,12.92-11,16.86-18.44,8.94-17.08,10.73-37.07,8.15-56-1.93-14.53-8-29.2-19.46-38.72-12-9.71-27.13-13.81-41.07-19.78-5.65-2.67-11.64-5.47-15.54-10.53-4.09-5.58-4.68-13.17-2.72-19.66,2.44-7.56,10.07-12.38,17.69-13.32,7.84-1.08,17,.31,22.22,6.82,5.27,6.69,6.67,15.43,7.76,23.64q14-.69,28.09-1.49c-.36-17.18-4.1-35.2-15.15-48.85C758.82,1082,753,1078.23,747,1075.18Z">
+                </path>
+                <path class="cls-4 svg-elem-84"
+                    d="M833.3,1075.14c22.18,0,44.36.06,66.53,0Q873.19,1180,846.48,1284.8c-4.4,0-8.82.11-13.21-.06Q833.35,1179.94,833.3,1075.14Z">
+                </path>
+                <path class="cls-4 svg-elem-85"
+                    d="M929.47,1075.09c17,.13,34,0,51,.07.06,63.68-.05,127.36.06,191l-1-.12C963,1202.37,946.12,1138.76,929.47,1075.09Z">
+                </path>
+                <path class="cls-4 svg-elem-86"
+                    d="M590.78,1125.34l.54.59q9.46,38.64,19,77.26c-12.65.07-25.3-.06-37.95.07C578.26,1177.24,584.85,1151.35,590.78,1125.34Z">
+                </path>
+                <path class="cls-4 svg-elem-87"
+                    d="M914.39,1125c6.67,26,12.92,52.16,19.34,78.24-12.68,0-25.35,0-38,0Q905,1164.08,914.39,1125Z">
+                </path>
+                <path class="cls-4 svg-elem-88"
+                    d="M552.79,1284.81c3.72-15.25,7.12-30.62,11.09-45.79q27.75,0,55.5,0c3.92,15.22,7.61,30.52,11.43,45.77Q591.79,1284.84,552.79,1284.81Z">
+                </path>
+                <path class="cls-4 svg-elem-89"
+                    d="M887.18,1239.05q27.84,0,55.68,0,5.73,22.88,11.38,45.76-39,0-78,0Q881.66,1261.93,887.18,1239.05Z">
+                </path>
+            </g>
+            <g id="_2b2a29ff-2" data-name="#2b2a29ff">
+                <path class="cls-5 svg-elem-90"
+                    d="M5.82,964.91c2.89-2.28,6.74-2.67,10.29-2.66,11.66,0,23.32,0,35,0,4.28,0,9.46,1.29,11.33,5.62,2.76,6.75,1.9,14.25,2,21.37-4.45,1-8.9,2-13.36,3,0-5.17,0-10.33,0-15.49q-18.09,0-36.17,0,0,25.82,0,51.65,18.06,0,36.14,0c0-5.85,0-11.69,0-17.53,4.46,1.38,9.05,2.46,13.42,4.07-.28,7.56.8,15.44-1.86,22.7-1.65,4.63-7,6-11.47,6.08q-18,0-36,0c-4-.08-8.67-.92-11-4.51-2.19-4-2.39-8.61-2.57-13-.06-13,0-26,0-39,0-5.39-.24-10.87,1-16.16C3,968.8,3.87,966.38,5.82,964.91Z">
+                </path>
+                <path class="cls-5 svg-elem-91"
+                    d="M99.57,962.87a32.37,32.37,0,0,1,8.51-.62q20,0,40.06,0c4.1,0,9,.89,11.21,4.76s2.43,8.77,2.58,13.27c0,13.65,0,27.3,0,41-.3,6.89.92,15.83-5.26,20.54-2.83,1.74-6.27,2-9.52,2-14.38,0-28.77,0-43.15,0-3.92-.15-8.49-1.13-10.63-4.76-2.45-4.86-2.37-10.48-2.45-15.78.08-15.3-.16-30.61.13-45.9.15-5.75,1.72-13.36,8.5-14.46m4.75,14.1c.06,17.16,0,34.32,0,51.48q22.1.06,44.19,0,0-25.83,0-51.66C133.82,976.89,119,976.55,104.32,977Z">
+                </path>
+                <path class="cls-5 svg-elem-92"
+                    d="M191.22,962.26c3,0,6,0,8.95,0,12,13.63,23.5,27.81,35.31,41.65,4.06,5,8.69,9.6,12,15.17-1.12-18.92-.38-37.88-.57-56.81,4,0,8-.07,12,0,0,27.14,0,54.27,0,81.41-3,.22-6,0-9,.1-8.38-9.4-16.29-19.33-24.48-28.93-7.6-9.3-15.72-18.18-22.85-27.82,1.16,18.88.31,37.82.56,56.73-4,0-8,0-12.06,0C191.23,1016.59,191.18,989.43,191.22,962.26Z">
+                </path>
+                <path class="cls-5 svg-elem-93"
+                    d="M289.3,967.47c2-4,6.76-5.12,10.82-5.2q17.52-.06,35,0c4.27.07,9.37,1.42,11.2,5.74A27.22,27.22,0,0,1,348,981.93c-3.82,1.29-7.66,2.51-11.45,3.88-.33-3.11.23-6.31-.27-9.35q-18.75,0-37.51,0c-.15,5.75.06,11.51-.1,17.28,11,.64,22.31.09,33.44.27,4.9-.07,10.89-.06,14.19,4.23,3.24,5.74,2.65,12.67,2.78,19-.16,7,.65,14.31-2,20.94-1.78,4.17-6.79,5.4-10.91,5.55-12.66.07-25.33,0-38,0-4.42,0-9.78-1.38-11.54-6a35.32,35.32,0,0,1-1.72-15.59l11.63-3.41c0,3.13,0,6.27,0,9.42,13.49.5,27.18.09,40.74.2q0-9.32,0-18.61c-12.37-.07-24.75,0-37.12-.05-4.19-.09-9.15-1.35-11-5.55-2.58-6-2-12.67-2.11-19C287.06,979.27,286.68,973,289.3,967.47Z">
+                </path>
+                <path class="cls-5 svg-elem-94"
+                    d="M366.41,962.35c22.15-.19,44.32-.15,66.46,0,0,4.81,0,9.63,0,14.44-8.86.07-17.71-.06-26.56.06,0,19.83,0,39.65,0,59.48-.27,2.44.54,5.26-.37,7.5-4.34-.2-8.79.3-13.06-.23.09-22.2,0-44.39.05-66.58-8.72-.51-17.65-.06-26.46-.23C366.39,972,366.46,967.16,366.41,962.35Z">
+                </path>
+                <path class="cls-5 svg-elem-95"
+                    d="M448.53,962.39c14.84-.33,29.71,0,44.56-.14,4.36,0,9.16-.49,13,2.09,3.61,2.35,4.38,7,4.7,11,.2,7.65.07,15.31.08,23-.17,4.54-.86,10-5,12.68-4.61,2.92-10.31,1.74-15.45,2,8.78,10.33,17.67,20.59,26.56,30.84-6.49-.21-13.14.38-19.54-.29-7.66-10.21-15.23-20.51-23.11-30.54-4.18,0-8.37,0-12.55,0-.07,10.27.06,20.55-.07,30.82-4.36,0-8.71,0-13.06,0-.16-27.14,0-54.29-.09-81.43m13.21,13.93c0,7.58-.05,15.17,0,22.75,10.15,0,20.3,0,30.46,0,2.17.08,4.93-.72,5.31-3.21.72-4.83.27-9.79.3-14.65a4.52,4.52,0,0,0-4.61-4.83C482.74,976.23,472.24,976.33,461.74,976.32Z">
+                </path>
+                <path class="cls-5 svg-elem-96"
+                    d="M538.12,962.27c4.45,0,8.91,0,13.36,0q0,32.87,0,65.74l.4.5c12.44-.06,24.88,0,37.32,0l.48-.33c0-22,0-43.93,0-65.89q6.67,0,13.36,0,0,31.53,0,63.06c-.16,4.77-.25,9.88-2.73,14.12-2.44,3.54-7.13,4.29-11.14,4.35-12.67,0-25.35,0-38,0-3.94-.12-8.54-1.14-10.59-4.87-2.23-4.17-2.35-9-2.49-13.64Q538.08,993.76,538.12,962.27Z">
+                </path>
+                <path class="cls-5 svg-elem-97"
+                    d="M633.12,966.21c3.11-3.79,8.49-4.05,13-4,11.35,0,22.7,0,34,0,4.34.08,9.5,1.63,11.08,6.15,2.45,6.64,1.69,13.88,1.8,20.83-4.47.93-8.92,2.27-13.42,2.86.07-5.11,0-10.22,0-15.32-12-.06-24,.05-36-.06-.34,14.49,0,29-.14,43.55.29,2.68-.57,5.75.38,8.22q17.75-.1,35.48,0c.75-5.69.07-11.76.32-17.58,4.4,1.28,8.79,2.61,13.21,3.85.2,7.49.85,15.38-1.54,22.64-1.48,4.66-6.79,6.29-11.19,6.35-12.33.06-24.65,0-37,0-3.94-.14-8.59-1.15-10.69-4.84-2.12-4.21-2.27-9.06-2.39-13.67,0-15.32-.06-30.64,0-46C630.39,974.85,630.56,970,633.12,966.21Z">
+                </path>
+                <path class="cls-5 svg-elem-98"
+                    d="M709.36,962.37c22.15-.18,44.36-.24,66.49,0-.08,4.79,0,9.58-.05,14.37-8.86.07-17.71-.06-26.56.07q0,31.17,0,62.36c-.26,1.48.51,3.33-.37,4.62-4.36-.19-8.77.25-13.08-.21,0-22.28.3-44.65-.17-66.88-8.74.12-17.48,0-26.22,0C709.34,972,709.43,967.17,709.36,962.37Z">
+                </path>
+                <path class="cls-5 svg-elem-99"
+                    d="M791.8,962.27q6.66-.06,13.35,0,.12,40.54.14,81.09l-.32.45c-4.4-.09-8.82.14-13.21-.11C791.83,1016.55,791.74,989.41,791.8,962.27Z">
+                </path>
+                <path class="cls-5 svg-elem-100"
+                    d="M842.29,962.56c14.94-.72,29.94-.11,44.91-.31,4.47-.07,9.91.1,12.9,4,2.82,4.08,2.9,9.31,3.1,14.1q0,22.95,0,45.9c-.21,4.47-.37,9.28-2.81,13.19-2.44,3.64-7.23,4.31-11.27,4.35-14.68,0-29.37,0-44.05,0-4.41-.09-9.72-1.71-11.17-6.39-2.55-7.77-1.43-16.08-1.69-24.11.22-12.93-.46-25.89.39-38.8.12-5.64,3.52-11.59,9.7-11.9m3.34,14.26c-.06,17.08,0,34.16,0,51.24,1.11,1,3,.09,4.48.41,13.09,0,26.19,0,39.28,0l.47-.4c-.05-17.1,0-34.19,0-51.28Q867.71,976.75,845.63,976.82Z">
+                </path>
+                <path class="cls-5 svg-elem-101"
+                    d="M932.47,962.33a62.2,62.2,0,0,1,9.36.11q18,21.49,36.13,42.92c3.68,4.52,7.88,8.64,10.77,13.76-1-18.93-.37-37.91-.53-56.86q6,0,12,0c0,27,.06,54.05,0,81.07l-.25.48c-3-.15-6,.17-9-.16l-38.43-45.82c-2.89-3.49-6-6.85-8.29-10.74.53,18.86.21,37.79.28,56.68-4,.06-8-.06-11.94.06C932.33,1016.68,932.55,989.5,932.47,962.33Z">
+                </path>
+            </g>
+            <g id="_0636608a-2" data-name="#0636608a">
+                <path class="cls-3 svg-elem-102"
+                    d="M754.42,1285.28a12.73,12.73,0,0,1,1.77-1.6c1.43,1,3.28.44,4.93.61,14.67,0,29.35,0,44,0l0,1Z">
+                </path>
+            </g>
+        </g>
+    </g>
+</svg>

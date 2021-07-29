@@ -1,0 +1,117 @@
+.row.Mission_Section {
+    padding: 20px 0;
+}
+
+.mis_desc {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 130%;
+}
+
+.our_mission_text {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.begin_navigation {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.navigation {
+    max-width: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1000;
+}
+
+.navigation .arrows {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    background: #F8F8F8;
+    border-radius: 2px;
+    color: #BFBFBF;
+    cursor: pointer;
+    transition: 0.25s;
+}
+
+.navigation .arrows:hover {
+    transition: 0.25s;
+    background: #F4F6FC;
+    color: #0142EC;
+}
+
+.bsIcon {
+    transition: 0.25s;
+}
+
+.navigation .arrows:hover .bsIcon {
+    transform: scale(1.4);
+    transition: 0.25s;
+}
+
+.mis_title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 26.4px;
+    color: #363636;
+}
+
+.mis_desc {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 130%;
+    color: #5F5F5F;
+}
+
+.imageSection2 {
+    width: 100%;
+}
+
+@media screen and (max-width:990px) {
+    .col2 {
+        order: 3;
+    }
+    .Mission_Section{
+        margin: 30px auto;
+        padding: 0!important;
+    }
+    .mis_title {
+
+        font-family: Open Sans;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 20px;
+        line-height: 120%;
+        text-align: center;
+    }
+
+    .our_mission_text {
+        align-items: center;
+        margin-bottom: 30px;
+    }
+
+    .mis_desc {
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 13px;
+        line-height: 130%;
+        text-align: center;
+        color: #5F5F5F;
+
+    }
+    .begin_navigation{
+        margin: 20px auto 0;
+    }
+}

@@ -1,0 +1,26 @@
+.StaffContent {
+    margin-bottom: 75px;
+}
+
+.mainTitles {
+    margin: 40px 0 46px 0;
+}
+.tagLine{
+    margin: 15px auto;
+    text-align: center;
+}
+
+
+
+@media screen and (max-width:990px) {
+    .firstTitlePage {
+        font-family: Open Sans;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 28px;
+        line-height: 110%;
+        text-align: center;
+        color: #363636;
+    }
+    
+}

@@ -1,0 +1,107 @@
+.employer-section {
+    padding-bottom: 140px;
+}
+
+.EmpSection {
+    display: flex;
+    align-items: center;
+    padding: 88px 0 47px 0;
+    justify-content: space-between;
+    margin-right: 30px;
+}
+
+.EmpSection .hr-line {
+    width: 60%;
+    height: 2px;
+    background: #EBEBEB;
+}
+.WorkerImage {
+    max-width: 100px;
+    border-radius: 100%;
+    overflow: hidden;
+
+}
+.WorkerImage img{
+    width: 100%;
+}
+
+.employer-title {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 120%;
+    color: #363636;
+    text-transform: uppercase;
+}
+
+.employerCart {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #FBFBFB;
+    border-left: 2px solid blue;
+    min-height: 180px;
+
+}
+
+.employerCart img {
+    width: 100px;
+}
+
+.titles {
+    padding-left: 20px;
+}
+
+.titles .name {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 150%;
+    color: #363636;
+}
+
+.titles .job {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 150%;
+    color: #5F5F5F;
+
+}
+
+.titles .job:hover {
+    color: #0142EC;
+}
+
+.knowMore {
+    margin: 30px auto auto;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: right;
+    color: #0142EC;
+}
+
+@media screen and (max-width:990px) {
+    .employerCart {
+        margin: 8px auto;
+    }
+
+    .employer-title {
+        font-size: 25px;
+    }
+
+    .EmpSection .hr-line {
+        width: 10%;
+    }
+
+    .employer-section {
+        padding-bottom: 40px;
+    }
+}

@@ -1,0 +1,95 @@
+.mainClass {
+    background: #FCFCFF;
+}
+
+.firstTitlePage {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 44px;
+    line-height: 110%;
+    text-align: center;
+
+    color: #363636;
+}
+
+.verticalBox {
+    position: relative;
+}
+
+.secondTitlePage {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 120%;
+    text-align: center;
+    color: #0142EC;
+    margin-top: 40px;
+    padding-bottom: 8px;
+}
+
+.vl {
+    position: relative;
+}
+
+.titleMachine {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+
+    color: #363636;
+}
+
+.ColCenter {
+    margin: 20px auto;
+}
+
+.doubleImg {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.imgBox img {
+    width: 100%;
+    background: white;
+}
+
+.titleText {
+    margin-bottom: 50px;
+}
+
+.diamondSection {
+    background: #0142EC;
+    max-width: 570px;
+    width: 100%;
+    margin: 60px auto;
+    padding: 10px;
+
+}
+
+.diamondSection .title {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+
+    color: #FCFCFF;
+}
+.diamondBox{
+    border: 0.5px solid rgba(255, 255, 255, 0.3);
+box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:37px 34px 56px 34px;
+}
+.imgbox{
+    margin-bottom: 20px;
+}

@@ -1,0 +1,45 @@
+.cartItems {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.cartItems .title {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    color: #363636;
+
+}
+
+.cartItems .desc {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+
+    color: #5F5F5F;
+}
+
+.advantages {
+    background: #F7F7FA;
+    padding: 58px 0 48px 0;
+}
+
+.titleTexts {
+    margin-left: 14px;
+}
+
+.titleTexts .special {
+    font-size: 13px;
+}
+
+@media screen and (max-width:990px) {
+    .firstTitlePage {
+        font-weight: 700!important;
+        font-size: 28px;
+    }
+}

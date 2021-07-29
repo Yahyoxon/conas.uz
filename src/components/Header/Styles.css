@@ -1,0 +1,115 @@
+.absolut_nav {
+    position: absolute;
+    z-index: 999;
+    width: 100%;
+}
+.custom-toggler .navbar-toggler-icon {
+    background-image: url("../../assets/team1.svg");
+  }
+.menu_nav {
+    z-index: 999;
+    width: 100%;
+    background: #363636;
+}
+
+.toogleMenuIcon{
+    font-size: 30px;
+    color: white;
+}
+.toogleBox{
+    padding:13px;
+    background: rgba(244, 244, 244, 0.05);
+}
+.navLink {
+    padding: 17px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: #FFFFFF !important;
+    opacity: 0.7;
+    padding: 15px 20px !important;
+}
+.navLink:focus {
+    outline: none!important;
+    border: none!important;
+    background-color: none!important;
+    background: none!important;
+    box-shadow: none!important;
+}
+
+.slash {
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.langAtribute {
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+    background: transparent;
+    border: none;
+}
+.langAtribute:hover {
+    background: transparent;
+    border: none;
+    color:white;
+}
+.langAtribute:active {
+    background:transparent!important;
+    border: none!important;
+    color:white!important;
+}
+
+
+.langNav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 40px;
+}
+
+.navLink:hover {
+    padding: 17px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: #FFFFFF !important;
+    opacity: 1;
+}
+
+.callButton {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.phoneIcon {
+    color: #ffffff;
+    margin-right: 10px;
+}
+
+.phoneNamber {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    /* identical to box height */
+
+    text-align: right;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+    transition: 0.1s;
+}
+
+.phoneNamber:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+    transform: scale(1.05);
+    transition: 0.1s;
+}

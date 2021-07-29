@@ -1,0 +1,197 @@
+.staffCard {
+    position: relative;
+    max-width: 370px;
+    min-height: 260px;
+    width: 100%;
+    margin: 5px auto;
+    display: flex;
+    justify-content: flex-end;
+    background-position: center center;
+    background-size: cover;
+    align-items: flex-end;
+    text-align: right;
+    padding: 15px 0 15px 15px;
+    transition: 0.5s;
+    filter: grayscale(1);
+
+    &:hover {
+        filter: grayscale(0);
+        transition: 0.5s;
+
+        .staffCardContent {
+            opacity: 0;
+            transition: 0.5s;
+        }
+    }
+
+    &Content {
+        transition: 0.5s;
+
+        .OrderNum {
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+
+            .numBer {
+                font-family: Montserrat;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 18px;
+                line-height: 120%;
+                text-align: right;
+                color: #363636;
+                padding: 0 10px 0 0;
+                opacity: 0.4;
+            }
+
+            .horizantal-line {
+                max-width: 200px;
+                width: 100%;
+                height: 1px;
+                background: #3636366e;
+            }
+        }
+
+        .OrderTitle {
+            padding-right: 15px;
+            font-family: Open Sans;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 18px;
+            line-height: 120%;
+            /* identical to box height, or 22px */
+            color: #0142EC;
+        }
+
+    }
+
+}
+
+.CartBox {
+    margin: 15px auto;
+    &:hover{
+        background: #FFFFFF;
+
+    box-shadow: 0px 4px 20px rgba(5, 5, 5, 0.3);
+    
+    }
+    .cardTitle {
+
+        margin: 12px 12px 12px 16px;
+        font-family: Open Sans;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 22px;
+        line-height: 120%;
+        color: #0142EC;
+    }
+
+    .cardDesc {
+        padding: 0px 12px 12px 16px;
+        font-family: Open Sans;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 150%;
+
+        color: #363636;
+    }
+
+    .imgBox {
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        max-width: 370px;
+        min-height: 260px;
+        position: relative;
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+        align-items: flex-end;
+
+        .bottomElements {
+            position: absolute;
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            padding: 0px 0 10px 10px;
+            width: 100%;
+
+            .cardNumber {
+                font-family: Montserrat;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 18px;
+                line-height: 120%;
+                color: #0142EC;
+                padding-right: 5px;
+            }
+
+            .cardLine {
+                width: 90%;
+                height: 1px;
+                background: #0142EC;
+            }
+        }
+
+        &_1 {
+            background-image: url(../../assets/services/01.jpg);
+        }
+
+        &_2 {
+            background-image: url(../../assets/services/02.jpg);
+        }
+
+        &_3 {
+            background-image: url(../../assets/services/03.jpg);
+        }
+
+        &_4 {
+            background-image: url(../../assets/services/04.jpg);
+        }
+
+        &_5 {
+            background-image: url(../../assets/services/05.jpg);
+        }
+
+        &_6 {
+            background-image: url(../../assets/services/06.jpg);
+        }
+
+        &_7 {
+            background-image: url(../../assets/services/07.jpg);
+        }
+
+        &_8 {
+            background-image: url(../../assets/services/08.jpg);
+        }
+
+        &_9 {
+            background-image: url(../../assets/services/09.jpg);
+        }
+
+        &_10 {
+            background-image: url(../../assets/services/10.jpg);
+        }
+
+        &_11 {
+            background-image: url(../../assets/services/11.jpg);
+        }
+
+        &_12 {
+            background-image: url(../../assets/services/12.jpg);
+        }
+
+        &_13 {
+            background-image: url(../../assets/services/13.jpg);
+        }
+
+        &_14 {
+            background-image: url(../../assets/services/14.jpg);
+        }
+
+        &_15 {
+            background-image: url(../../assets/services/15.jpg);
+        }
+    }
+}

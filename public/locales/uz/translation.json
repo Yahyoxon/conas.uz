@@ -1,0 +1,153 @@
+{
+  "Menu": {
+    "aboutCompany": "Kompaniya haqida",
+    "services": "Xizmatlar",
+    "buildingWork": "Qurilish ishlari",
+    "MachineService": "Mashinalar va mexanizmlar",
+    "news": "Yangiliklar",
+    "ourWorkers": "Bizning xodimlar",
+    "contact_inf": "Aloqa"
+  },
+  "CarouselHeader": {
+    "title1": "OBYEKTLAR  QURILISHI VA REKONSTRUKTSIYASI"
+  },
+  "OurMissionTexts": {
+    "ourMissionTitle": "Bizning maqsadimiz",
+    "ourMissionDesc1": "Xizmatlarimiz va mahsulotlarimiz sifatini",
+    "ourMissionDesc2": "doimiy ravishda oshirib borish"
+  },
+  "AboutCompany": {
+    "Title": "Kompaniya haqida",
+    "desc": "MChJ QK ''CONSTRUCTION ASIA'' O'zbekiston Respublikasida yosh va jadal rivojlanayotgan kompaniya bo'lib, bugungi kunda qurilish bozorida kuchli mavqega ega. Strategiyani to'g'ri tanlang",
+    "readmore": "Davomini o'qish",
+    "opitny": "Tajribali kadrlar",
+    "pravila": "Qoidalarga rioya qilish",
+    "newTechnologies": "Yangi texnologialra",
+    "deadline": "Belgilangan muddatlarda ishlash",
+    "opitnyDesc": "Ishchilar o'z ishlariga koвЂ™p kuch singdiradilar",
+    "pravilaDesc": "Biz mijoz bilan shartnoma asosida ishlaymiz",
+    "newTechnologiesDesc": "Biz yangi texnologiyalarni joriy etishga intilamiz",
+    "deadlineDesc": "Biz loyihalarni o'z vaqtida bajarishga intilamiz"
+  },
+  "News": {
+    "title": "Yangiliklar"
+  },
+  "OurService": {
+    "Title": "XIZMATLARIMIZ",
+    "readMore": "Batafsil ma'lumot",
+    "titleService1": "Qurilish, montaj va demontaj ishlari",
+    "titleService2": "Mashina va mexanizmlarning xizmatlari"
+  },
+  "Employers": {
+    "mainTitle": "BIZNING XODIMLARIMIZ",
+    "AllList": "To'liq ro'yxat",
+    "maxmudovData": {
+      "name": "Maxmudov Temur Alisher o'g'li",
+      "job": "Direktor",
+      "desc": "Kompaniyamiz tashkil topganidan beri ishlaydi. Mutaxasisligi – Iqtisodiyot yo’nalishi. Qurilishda 8 yillik ish tajribasiga ega. U o’z ish faoliyatini Vazirlar Mahkamasi binosini qayta qurish, Mudofaa vazirligining Harbiy akademiyasi qurilishi , Iqtisodiyot Vazirligi binosi rekonstruksiyasi, HYATT Regency mehmonxonasi qurilishi kabi obyektlarda turli lavozimlarda olib borgan."
+    },
+    "atametovData": {
+      "name": "Atametov Xusniddin Nuriddinovich",
+      "job": "Maslahatchi",
+      "desc": "Kompaniyamiz tashkil topganidan beri ishlaydi. Qurilish sohasida 35 yillik  tajribaga ega. U oddiy ishchidan boshqaruvchigacha martaba o'sishining barcha bosqichlarini bosib o'tdi. U Mudofaa vazirligining Harbiy akademiyasi, Prezident akademiyasi, O'zbek tili va adabiyoti universiteti, Vazirlar Mahkamasi binosini qayta qurish, Senat binosini qurish, G'aznachilikni rekonstruktsiya qilish, Bunyodkor stadionini qurish, HYATT Regency Tashkent mehmonxonasini qurish, Vazirlik binosini qayta qurish, General Motors Powertrain zavodini qurish kabi obyektlarda yetakchi bo'lgan. "
+    },
+    "umarovRustamData": {
+      "name": "Umarov Rustam Alisherovich",
+      "job": "Iqtisodiy ishlar bo'yicha direktor o'rinbosari",
+      "desc": "Ixtisoslashuvi - umumiy qurilish ishlari. Qurilish sohasida 14 yillik ish tajribasiga ega. Forumlar saroyi, Bunyodkor stadioni, Vestminster universiteti, Prezident akademiyasi, HYATT Regency Tashkent mehmonxonasi, Vazirlar Mahkamasi huzuridagi Oliy biznes maktabi va Peugeot-Citroen avtomobil zavodini  qurilish ishlarida  qatnashgan.  "
+    },
+    "siddiqovAbrorData": {
+      "name": "Siddiqxo'jaev Abrorxon \r\n Yorixon o'g'li",
+      "job": "Bosh muhandis",
+      "desc": "Mutaxassisligi - muhandislik kommunikatsiyalari. Qurilishda 8 yillik ish tajribasiga ega. U Minor masjidi, Vazirlar Mahkamasi huzuridagi Oliy biznes maktabi, HYATT Regency Tashkent mehmonxonasi,  Ko'ksaray Prezident qabul uyini qurish va Iqtisodiyot vazirligi binosi rekonstruksiyasi kabi ishlarni bajarishda ishtirok etdi."
+    },
+    "xurramiddinData": {
+      "name": "Xurramov Alisher To'rayevich",
+      "job": "Ishlab chiqarish bo'yicha direktor o'rinbosari",
+      "desc":"Mutaxassisligi - pardozlash ishlari. Qurilishda 16 yillik ish tajribasiga ega . Alisher Navoiy nomidagi  Milliy kutubxona, HYATT Regency Tashkent mehmonxonasi, Alisher Navoiy  nomidagi  Davlat akademik katta teatri, Prezident akademiyasi, Mudofaa vazirligining Harbiy akademiyasi, Prezident I.Karimovning Samarqanddagi maqbarasi, Pediatriya institutining Nukus filiali qurilishlarida qatnashgan."
+    },
+    "ismoilovData": {
+      "name": "Isroilov Sardor Zokir o’g’li",
+      "job": "Katta prorab(ish boshqaruvchi)        ",
+      "desc": "Mutaxassisligi - umumiy qurilish ishlari. Kompaniyamiz tashkil topganidan beri ishlaydi. Yosh bo'lishiga qaramay u o’zini maqsadga intiluvchan, ishni puxta va o’z vaqtida bajaruvchi mutaxassis sifatida ko'rsatdi. Bugungi kunda u transformator podstansiyalari, qozonxonalar va chiller xonalarini qurish va o'rnatish uchun javobgardir."
+    },
+    "artiqhujayevData": {
+      "name": "Artiqxo'jaev Saidmurod Saidamin o’g’li",
+      "job": "Texnik ishlab chiqarish bo’limi rahbari",
+      "desc": "Qurilishdagi ish tajribasi-6 yil. U bizning ahil jamoamizga taxminan 2 yil oldin qo'shilgan. Barcha bo'limlarning bajargan ish hajmi uning qo'lidan o'tadi. U o'zini maqsadga intiluvchan, malakali mutaxassis sifatida namoyon etdi."
+    },
+    "shoyusufovData": {
+      "name": "Shayusupov Odiljan Talipovich",
+      "job": "Bosh buxgalter (xisobchi)",
+      "desc": "Mutaxassisligi - buxgalteriya hisobi. Qurilishdagi ish tajribasi-36 yil. Jamoamizning eng tajribali mutaxassislaridan biri. U mamlakatdagi eng yirik qurilish kompaniyalaridan birida bosh xisobchi bo'lib ishlagan. U bizning jamoamizga yaqinda qo'shildi, ammo shunda ham biz kompaniyamizning moliyaviy faoliyatga ishonchimiz komil"
+    }
+  },
+  "AboutPage": {
+    "Content": "MChJ QK CONSTRUCTION ASIA - bu O'zbekiston Respublikasida yosh va jadal rivojlanayotgan kompaniya bo'lib, bugungi kunda qurilish bozorida kuchli  mavqega  ega. Strategiyani to'g'ri tanlanganligi,  to'g'ri  moliyaviy siyosat, sivilizatsiyalashgan biznes qadriyatlariga ahamiyat berilganligi tufayli, kompaniyamiz kuchli va ishonchli sherik ekanligini isbotladi. Eng yaxshi materiallar va texnologiyalardan foydalangan holda zamonaviy uskunalarga ega bo'lgan Kompaniyamiz  ishlarni  yuqori sifatda bajarilishini ta'minlaydi. Faoliyatimizda biz mijozlarimiz bilan uzoq muddatli, o'zaro manfaatli munosabatlarni o'rnatishga alohida e'tibor qaratamiz. MChJ QK  CONSTRUCTION ASIA O'zbekistondagi qurilish bozorini rivojlantirish bo'yicha yangi loyihalarni amalga oshirishga qaratilgan. Biz mahalliy va xorijiy ishlab chiqaruvchilar bilan faol hamkorlik qilmoqdamiz, bu esa uskunalar, butlovchi qismlar va materiallarning keng qatoridan foydalangan holda,  xaridorlarning ehtiyojlarini  maksimal darajada qondirish  imkoniyatini beradi. Biz o'z ishimizda O'zbekiston Respublikasining qonunlariga va qurilish me'yorlari va qoidalariga qat'iy rioya qilamiz. Faoliyatimizning ustuvor tamoyillaridan biri - har bir mijozga individual yondashishdir.",
+    "ChartTitle": "Qurilish tashkilotlarining elektron reytingi",
+    "Reyting": "Reting:",
+    "totalCount": "Qurilish tashkilotlarining umumiy soni:",
+    "kolichestvo": "Qurilish tashkilotlari soni"
+  },
+  "Contacts": {
+    "adress": "Manzil",
+    "fax": "Faks",
+    "callCenter": "Call center",
+    "locationInfo1": "Chilonzor tumani, Janubi-g'arbiy sanoat zonasi,",
+    "locationInfo2": "Bunyod ko'chasi, 44-uy"
+  },
+  "machineService": {
+    "title": "Mashinalar va mexanizmlarning xizmatlari",
+    "bobcat": "Bobcat mini yuklagichi",
+    "DOOSAN": "DOOSAN DX160W g'ildirakli ekskavator",
+    "DYNAPAC": "DYNAPAC CA 2500D  tuproq roligi",
+    "ISUZU": "ISUZU FVR 33 PLX avtoulovi",
+    "JCB": "JCB 3CX 14M2WM yuklovchi ekskavator",
+    "LIEBHERR": "LIEBHERR A904 g'ildirakli ekskavator",
+    "LIEBHERR2": "LIEBHERR R924 zanjirli ekskavator",
+    "manTgs1": "MAN TGS 33.360, 6x4 BB- 20 tn avtosamosval",
+    "manTgs2": "MAN TGS 40.400, 6x4 BB-25 tn avtosamosval",
+    "manTgs3": "MAN-SCTF-U334.01 konteynerli yarim tirkamali avtoulov MAN TGS 26.400 6x4 BLS",
+    "SANY": "SANY SYM5333JQZ avtokrani",
+    "Shacman": "Shacman suv tashuvchisi",
+    "VodovozShacman": "Shacman suv tashuvchisi",
+    "shantui": "SHANTUI SD 22  buldozeri",
+    "diamondBox": "Kompaniyaning qurilish uskunalari butunlay yangi, bu ularni ikki yoki uch smenada ishlatilishiga imkon beradi."
+  },
+  "RepairPage": {
+    "title": "QURILISH, MONTAJ VA DEMONTAJ ISHLARI",
+    "desc": "Tajribali malakali mutaxassislarning mavjudligi bizga keng ko'lamli qurilish-montaj ishlarini bajarishga imkon beradi"
+  },
+  "RepairServices": {
+    "earthWork": "Yer ishlari",
+    "earthWorkDesc": "Yer ishlari, tuproqni qayta ishlash - tuproqni ishlab chiqarish, ko'chirish, yotqizish va zichlashni o'z ichiga olgan ishlar; qurilish ishlarining tarkibiga kiradi.",
+    "BetonWork": "Beton ishlari",
+    "BetonWorkDesc": "Poydevor, ustunlar, devorlar, pollar, tayanch devorlari va boshqalar kabi inshootlarni qurish ishlari.",
+    "TomYopish": "Tom qurish",
+    "TomYopishDesc": "Har xil turdagi tomlarni qurish ishlari.",
+    "MontajElement": "Konstruksiya elementlarini o'rnatish",
+    "MontajElementDesc": "Binolarning ustki qismikonstruktsiyasining elementlarini , shu jumladan ustunlar, ramalar, rigellar,  to'sinlar, plitalar, kamarlar, devor panellari va to'siqlarini o'rnatish.",
+    "MontajMetal": "Metall konstruksiyalarni o'rnatish",
+    "MontajMetalDesc": "Metall konstruksiyalar katta oraliqdagi bir qavatli binolarni, og'ir tipdagi sanoat binolari uchun karkaslarni, ko'p qavatli binolar uchun karkaslarni, rezervuarlar, gazgolderlar, turli xil texnologik konstruksiyalar va boshqalarni  qurishda ishlatiladi.",
+    "IchkiTarmoq": "Maydon ichidagi tarmoqlar ",
+    "IchkiTarmoqDesc": "Maydon ichidagi tarmoqlar (suv ta'minoti, kanalizatsiya, issiqlik ta'minoti, sovuq suv ta'minoti, tashqi yoritish, past kuchlanishli elektr uzatish liniyalari, sug'orish, quduq, kabel tizimi) tegishli resurslarni yetkazib berishni ta'minlaydigan muhandislik-texnik ta'minot tarmoqlari, elektr tarmoqlari va aloqa tarmoqlari, ularni joylashtirish kapital qurilish ob'ektlarining yer uchastkalarida amalga oshiriladi.",
+    "MontajTrans": "Transformator podstansiyalarini o'rnatish",
+    "MontajTransDesc": "KTP elektr ta'minoti tizimning to'g'ri ishlashi uchun zarur. To'liq transformator podstansiyasini o'rnatish qurilish turiga, ulangan elektr uzatish liniyalariga va landshaft xususiyatlariga bog'liq",
+    "MontajKotelnik": "Qozonxonalarni o'rnatish",
+    "MontajKotelnikDesc": "Qozon uskunalarini (bug ', issiq suv), qozonxona binolarida o'rnatish: - issiqlik va mexanik uskunalar; \n- gaz uskunalari; \n- qozonxona suvini tozalash tizimini jihozlash; \n- elektr jihozlari; \n- yong'in va xavfsizlik signalizatsiya tizimining jihozlari va qurilmalari; \n- isitish, shamollatish, suv ta'minoti va kanalizatsiya tizimlari jihozlash; \n- metall quvirlar; \n- qozonxonaning yoqilg'i tejamkorligi; \n- qozonxonalarning binolari va inshootlarini o'rnatish.",
+    "MontajChillerov": "Sovutkichlarni o'rnatish",
+    "MontajChillerovDesc": "Sovutkichlarni o'rnatish - bu yuqori malakali mutaxassislarni talab qiladigan murakkab ish turi. Konditsioner tizimining qanchalik samarali bo'lishi va qancha vaqt ishlashi o'rnatishga bogвЂ™liq. Sovutkichni quvvat manbai va gidravlik zanjirga ulash uskunani o'rnatishning eng qiyin qismidir. Ushbu bosqichda ishlab chiqaruvchining ko'rsatmalariga va amaldagi texnik reglamentlarga to'liq rioya qilish kerak.",
+    "Teplo": "Ichki iqlim ta'minoti",
+    "TeploDesc": "Konditsioner va shamollatish tizimlari har qanday binoning ajralmas qismi va ichki iqlimni yaratishda hal qiluvchi omil hisoblanadi.",
+    "ElektroPitaniya": "Ichki elektr ta'minoti",
+    "ElektroPitaniyaDesc": "Ob'ektning uzluksiz ishlashini ta'minlash uchun qurilmangizning barcha xususiyatlarini hisobga olgan holda elektr ta'minoti tarmog'ini yaratishingiz kerak. ",
+    "Vodosnab": "Ichki suv ta'minoti va kanalizatsiya",
+    "VodosnabDesc": "Suv ta'minoti tizimlari, shuningdek kanalizatsiya tarmoqlari xususiy uylar, ko'p qavatli turar-joy binolari, kichik va yirik korxonalar, shuningdek ma'muriy binolar va boshqa binolarga texnik xizmat ko'rsatish.",
+    "Slabotochny": "Past-oqim tizimi",
+    "SlabotochnyDesc": "Ma'lumotlarni to'plash, qayta ishlash va uzatish funktsiyalarini bajaradigan, uning chegaralari ichida elementlarning ishlashi zaif elektr toklari bilan ta'minlanadigan texnik tizim. Kam oqimlarning simli tizimi deganda asosan umumiy ma'lumotni uzatish uchun mo'ljallangan bino yoki binolar majmuasidagi kanallar, marshrutlar, kabellar, xochlar, kommutatsiya elementlari va texnik xonalar to'plami tushuniladi.",
+    "Puskonalny": "Komissiya ishlari",
+    "PuskonalnyDesc": "Individual sinovlarni tayyorlash, o'tkazish va jihozlarni kompleks sinovdan o'tkazish jarayonida bajariladigan ishlar to'plami. Ishga tushirishdan oldin o'rnatilgan uskunada nozikroq va batafsilroq sozlash ishlari olib borildi.",
+    "OtdelochnixRabot": "Binoning tashqi koвЂ™rinishi",
+    "OtdelochnixRabotDesc": "Binodagi pardozlash ishlari qurilishda eng muhim bosqichdir, chunki xonaning ko'rinishi, uning atmosferasi natijada odamlarning kayfiyatiga taвЂ™sir oвЂ™tkazadi."
+  }
+}

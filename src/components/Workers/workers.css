@@ -1,0 +1,123 @@
+.nameDirektor {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 150%;
+    color: #363636;
+
+}
+
+
+.imgDirektor img {
+    width: 100%;
+}
+
+.centerCol {
+    margin: 15px auto;
+}
+
+.textsWork .job {
+    margin: 4px 0 14px 0;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 150%;
+
+    color: #0142EC;
+}
+
+.descDir {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+
+    text-align: justify;
+
+    color: #878E99;
+}
+
+.WorkerCard {
+    background: #FBFBFB;
+    display: flex;
+    align-items: center;
+    max-height: 156px;
+    height: 100%;
+    padding: 28px 0;
+    border-left: 2px solid #0142EC;
+}
+
+.Sotrudniki-section {
+    margin: 70px auto 70px;
+
+}
+
+.WorkerImage {
+    max-width: 100px;
+    margin: 0px 20px;
+    border-radius: 100%;
+    overflow: hidden;
+
+}
+.WorkerImage img{
+    width: 100%;
+}
+
+.titleName {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 150%;
+    color: #363636;
+}
+
+.accordion>.card>.card-header {
+    padding: 0px;
+}
+
+.accordion .card {
+    border: none !important;
+    border-radius: none !important;
+    background: transparent !important;
+}
+
+.accordion .card .card-header {
+    background-color: transparent !important;
+    border-bottom: 0 !important;
+}
+.card-header button{
+    padding: 0;
+    border:0;
+}
+.card-body{
+    font-size: 14px;
+    padding: 10px 25px 10px 25px;
+    text-align: justify;
+    font-weight: 500;
+    font-family: Open Sans;
+    background:#FBFBFB;
+    border-left: 2px solid #0142EC;}
+
+@media screen and (max-width:990px) {
+    .titleName {
+        font-size: 16px;
+    }
+    .nameDirektor{
+        font-size: 24px;
+    }
+}
+
+.jobDesc {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 150%;
+    max-width: 180px;
+    color: #5F5F5F;
+}

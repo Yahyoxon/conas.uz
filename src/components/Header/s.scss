@@ -1,0 +1,130 @@
+@media screen and (max-width:990px) {
+    .callButton{
+        display: none;
+    }
+    .langNav {
+        margin: 20px auto 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+
+        .slash{
+            color: #5f5f5f86!important;
+        }
+
+        .langAtribute {
+            padding: 5px 15px !important;
+            font-family: Open Sans;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 14px;
+            line-height: 19px;
+            text-align: right;
+            text-transform: uppercase;
+            color: #5f5f5f86!important;
+            &:hover{
+                color: #0142EC!important;
+            }
+        }
+    }
+
+
+    #toggle {
+        position: fixed;
+        padding: 30px;
+        // background: #1f1f1f;
+        border-radius: 0 !important;
+        float: right;
+        z-index: 9999;
+        $dotWidth: 35px;
+        $dotHeight: 3px;
+        $xWidth: $dotWidth;
+        $xHeight: 3px;
+        $BorderRadius: 100px;
+
+        position: relative;
+        width: 35px;
+        height: 35px;
+        cursor: pointer;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition: 0.2s;
+        border-radius: $BorderRadius;
+
+        &::before {
+            content: "";
+            position: absolute;
+            width: $dotWidth;
+            height: $dotHeight;
+            border-radius: $BorderRadius;
+            background: #ffffff;
+            transition: 0.2s;
+            transform: translateY(-10px);
+            box-shadow: 0 10px 0 #ffffff;
+        }
+
+        &.activeClass::before {
+            transform: translateY(0px) rotate(45deg);
+            box-shadow: 0 0 0 white;
+            width: $xWidth;
+            height: $xHeight;
+            border-radius: $BorderRadius;
+        }
+
+        &::after {
+            content: "";
+            position: absolute;
+            width: $dotWidth - 5px;
+            height: $dotHeight;
+            border-radius: $BorderRadius;
+            background: #ffffff;
+            transition: 0.2s;
+            transform: translateY(10px) translateX(3px);
+        }
+
+        &.activeClass::after {
+            width: $xWidth;
+            height: $xHeight;
+            border-radius: $BorderRadius;
+            transform: translateY(0px) rotate(-45deg);
+        }
+
+    }
+
+
+    #basic-navbar-nav {
+        display: none !important;
+        padding-bottom: 30px!important;
+
+        &.activeClass {
+            display: block !important;
+        }
+
+        background: rgb(255, 255, 255);
+        border-radius: 3px;
+
+        .menuNav {
+
+
+
+            .navLink {
+                color: #000 !important;
+            }
+
+            .navLinkDropdown {
+                justify-content: space-between;
+                padding: 0 20px;
+                flex-direction: column;
+
+                .nav-link {
+                    width: 100%;
+                    color: #000 !important;
+                }
+            }
+        }
+    }
+
+
+}

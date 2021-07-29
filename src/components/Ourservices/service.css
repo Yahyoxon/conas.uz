@@ -1,0 +1,143 @@
+.services-section{
+    background: #F7F7FA;
+    padding-bottom: 80px;
+}
+.firstService {
+    max-width: 570px;
+    height: 320px;
+    background: url('../../assets/services/01-s.jpg');
+    background-size: cover;
+    position: relative;
+    padding: 122px 60px;
+}
+.secondService{
+    max-width: 570px;
+    height: 320px;
+    background: url('../../assets/services/02-s.jpg');
+    background-size: cover;
+    position: relative;
+    padding: 122px 60px;
+}
+
+.firstService:hover .firstContentService {
+    opacity: 1;
+}
+.secondService:hover .secondContentService {
+    opacity: 1;
+}
+
+.firstContentService {
+    transition: 0.5s;
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(1, 66, 236, 0.8);
+    text-align: center;
+    padding: 122px 60px;
+    opacity: 0;
+}
+.secondContentService {
+    transition: 0.5s;
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(1, 66, 236, 0.8);
+    text-align: center;
+    padding: 122px 60px;
+    opacity: 0;
+}
+
+.firstContentService .title {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 38px;
+    color: #FFFFFF;
+    padding-bottom: 58px;
+
+}
+.secondContentService .title {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 38px;
+    color: #FFFFFF;
+    padding-bottom: 58px;
+
+}
+
+.linkToService {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+}
+.linkToService:hover{
+    color: white;
+}
+.linkToService .BsArrowRight {
+    font-size: 40px;
+}
+
+.topText {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 120%;
+    text-align: center;
+    color: #0142EC;
+
+}
+.SectionTitle{
+    font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 44px;
+line-height: 120%;
+text-align: center;
+color: #363636;
+
+}
+.ServiceTexts{
+    padding: 80px 0 40px 0;
+}
+@media screen and (max-width:990px) {
+    
+    .SectionTitle {
+        font-size: 30px;
+    }
+    .firstContentService .title,  .secondContentService .title{
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .firstService, .secondService{
+        min-width: 320px;
+        max-height: 180px;
+        width: 100%!important;
+    }
+    .firstContentService, .secondContentService {
+        transition: 0.5s;
+        top: 0;
+        left: 0;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background: rgba(1, 66, 236, 0.8);
+        text-align: center;
+        opacity: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}
